@@ -1,0 +1,2059 @@
+Human: Hello
+Reply: Hello sir/mam how can we assist you?
+Human: I want to know about the managed wifi.
+Reply: Managed Wifi
+We have come up with a feature that gives you access to the list of devices connected to your router and total bandwidth usage. Furthermore, with just a small upgrade, you can get dual band router for better internet experience.You can also gain information about the application from the https://www.youtube.com/watch?v=FAXYr9C8jfs
+
+Human: Hello
+Reply: Hello sir/mam how can we assist you?
+human: Hey i have heard that worldllink customer get discount in many restaurant. Is that true?
+Reply: Yes sir/mam The thing you heard i absolutely true.
+human: I visit many of the restaurant. Can you describe me about this feature?
+Reply: Discount App
+For every rupee not spent is a rupee saved. We have introduced a discount app feature to benefit our customers. We provide privilege discounts and deals at 750+ outlets ranging from restaurants, retail stores, fitness centers, and many more. In Order to claim the discount, the users will need to show their active GO App to the respective merchants before the bill is printed.
+https://play.google.com/store/apps/details?id=np.com.worldlink.worldlinkgoapp . 
+http://godiscount.com.np/client_register
+Human: I have to register for this feature?
+Reply: Yes sir/mam.
+Human: What kind of user are eligible for this feature?
+Reply: All the worldlink user are eligible for this feature.
+Human: How long it will take to register?
+Reply: It will take about one day sir.
+Human: Okay sir
+Reply: Welcome sir/mam
+
+Human: hi
+Reply: Hello sir/mam how can we assist you?
+human: Can you describe me about this  discount feature?
+Reply: Discount App
+For every rupee not spent is a rupee saved. We have introduced a discount app feature to benefit our customers. We provide privilege discounts and deals at 750+ outlets ranging from restaurants, retail stores, fitness centers, and many more. In Order to claim the discount, the users will need to show their active GO App to the respective merchants before the bill is printed.
+https://play.google.com/store/apps/details?id=np.com.worldlink.worldlinkgoapp . 
+http://godiscount.com.np/client_register
+Human: How long it will take to register?
+Reply: It will take about one day sir.
+Human: Okay sir
+Reply: Welcome sir/mam
+
+human: I want to know about the discount app.
+Reply: Discount App	
+For every rupee not spent is a rupee saved. We have introduced a discount app feature to benefit our customers. We provide privilege discounts and deals at 750+ outlets ranging from restaurants, retail stores, fitness centers, and many more. In Order to claim the discount, the users will need to show their active GO App to the respective merchants before the bill is printed.
+https://play.google.com/store/apps/details?id=np.com.worldlink.worldlinkgoapp . 
+http://godiscount.com.np/client_register
+Human: How long it will take to register?
+Reply: It will take about one day sir.
+
+Human: Hey 
+Reply: How can we assist you sir?
+Human: I read on your post about the discount app.
+Reply: Okay sir/mam Please elaborate your query sir/mam.
+Human: I want to know about the disacount app.
+Reply: Discount App
+For every rupee not spent is a rupee saved. We have introduced a discount app feature to benefit our customers. We provide privilege discounts and deals at 750+ outlets ranging from restaurants, retail stores, fitness centers, and many more. In Order to claim the discount, the users will need to show their active GO App to the respective merchants before the bill is printed.
+https://play.google.com/store/apps/details?id=np.com.worldlink.worldlinkgoapp . 
+http://godiscount.com.np/client_register
+Human: I am not the worldlink user. Can i also get this feature.
+Reply: You should be worldlink user to grap this feaure.
+Human: Okay
+Reply: Okay sir/mam
+
+
+Human: hi
+Reply: Hello sir/mam how can we assist you?
+Human: i have visited one of the restuarent. There was the free wifi of the worldink. In the time of the payment i show the discount app and requested for the discount. But they didnot give me the discount.
+Reply: Please contact 9801523051 and update the issue. We will update you within 2 hour.
+Human:  Thank you for your coorporation.
+Reply: Welcome sir/mam
+
+Human: Hey
+Reply: Hello sir/mam how can we assist you?
+Human: I want to know about the safenet feature. My son watch porn video all day.
+Reply: Well, considering this situation wordlink has introduce safenet feature.
+Human: woo that great. Could you please elaborate about this feture.
+Reply: Sure sir/mam
+Safenet:
+Keeping a family cyber secure is the primary need of today's smart family. Safenet feature provides you facilities like Ad blocking, child safety, virus protection, web filtering and time management. This will help the internet a safer place for your kids and help them get the best out of it.
+Human: How can i activate this feature in my account?
+Reply: This feature helps to block certain contain and the web application/app.
+Human: Can't it be usefull in mobile application/app.
+Reply: It can only be feasiable in the web app.
+Human: Okay how can i use this feature. Can i activate myself?
+Reply: Do you use worldink mobile app?
+Human: I do son.
+Reply: You can visit www.youtube.com/watch?v=sQW7lwJDFc0 to know about the safenet feature and how it work.
+Human: THnak you for your support
+Reply: Welcome sir/mam
+
+Human: Hey
+Reply: Hello sir/mam how can we assist you?
+Human: I want to block the facebook in my network. Is that possible?
+Reply: Yes sir/mam it is.
+Human: How can i do that?
+Reply: YOu can block but only in the web application.
+Human: only in th web application why can't i block the content in th mobile app?
+Reply: Mobile app has the different prerequities as well as different secirity system as compare to the web app. We are working hard to make this feature enable for the mobile app. Please be patience.
+Human: Can i explore this feature myself?
+Reply: Do you use worldink mobile app?
+Human: I do son.
+Reply: You can visit 
+https://www.youtube.com/watch?v=sQW7lwJDFc0 to know about the safenet feature and how it work.
+Human: okay
+Reply: okay sir/mam
+
+human:oi 😡️😡️😡️
+Reply: Hello sir/mam how can we assist you?
+Human: Hey i want to know about your feature that has been release.
+Reply: New Internet Standard(Features)
+Our new internet standard is more than just an internet package. With our new packages we tend to create more options for our growing customer demographic which will enhance our internet experience.
+Time Back:	
+We, at worldlink, always strive to provide uninterrupted internet service and value your investment. However, incase of unavoidable circumstances, we bring you the service to makeup for loss caused by internet outages or regular maintenance. We will compensate if your issues are not responded within 24 hours.
+Managed Wifi:	
+We have come up with a feature that gives you access to the list of devices connected to your router and total bandwidth usage. Furthermore, with just a small upgrade, you can get dual band router for better internet experience. 
+Discount App:	
+For every rupee not spent is a rupee saved. We have introduced a discount app feature to benefit our customers. We provide privilege discounts and deals at 750+ outlets ranging from restaurants, retail stores, fitness centers, and many more. In Order to claim the discount, the users will need to show their active GO App to the respective merchants before the bill is printed.
+https://play.google.com/store/apps/details?id=np.com.worldlink.worldlinkgoapp . 
+http://godiscount.com.np/client_register
+NetTV:	
+Upgrade your TV package for more channels of you choice. You can now opt for Entertainment Prime and Sports Prime packages for more of entertainment and sports channel on demand. Also, you can go for ALL Prime packages too, to get the overall TV experience. 
+Safenet:
+Keeping a family cyber secure is the primary need of today's smart family. Safenet feature provides you facilities like Ad blocking, child safety, virus protection, web filtering and time management. This will help the internet a safer place for your kids and help them get the best out of it.
+Human: You have only this feature?
+Reply: This the latest feature we have got sir/mam. We have also lots of other feature.
+Human: Well, i also wanted to know about the free hotspot feature.
+Reply: This feature helps you to joint the free wifi without geting the time limit. If you are the worldlink user with the help of the worldink username and the online services password you can connect to the wifi and use it unlimited. 
+Human: Okay how can i get my online services password?
+Reply: There are two method to reset the password
+One from the web app and the second mobile app.
+From mobile app:
+Open you app>> tap in home>> tap in wan>> tap in forget password You will receive the text with one minute. The text include,"Your password has been reset to". After reset teo it consist of the 6 digit code. That 6 digit code is the online services password.
+From web app:
+Go to www.worldlink.com.np
+Click on “Online Services” (https://eservice.worldlink.com.np/login/)
+Click on “Forgot Password?” (https://eservice.worldlink.com.np/recover/forgot_password)
+Enter your username and email address/mobile number registered to the username.
+Human:Okay i got it
+Reply: okay sir/mam
+
+Human: 😎️😎️😎️
+Reply: Hello sir/mam how can we assist you?
+Human: Tell me about you standard feature.
+Reply: New Internet Standard(Features)
+Our new internet standard is more than just an internet package. With our new packages we tend to create more options for our growing customer demographic which will enhance our internet experience.
+Time Back:	
+We, at worldlink, always strive to provide uninterrupted internet service and value your investment. However, incase of unavoidable circumstances, we bring you the service to makeup for loss caused by internet outages or regular maintenance. We will compensate if your issues are not responded within 24 hours.
+Managed Wifi:	
+We have come up with a feature that gives you access to the list of devices connected to your router and total bandwidth usage. Furthermore, with just a small upgrade, you can get dual band router for better internet experience. 
+Discount App:	
+For every rupee not spent is a rupee saved. We have introduced a discount app feature to benefit our customers. We provide privilege discounts and deals at 750+ outlets ranging from restaurants, retail stores, fitness centers, and many more. In Order to claim the discount, the users will need to show their active GO App to the respective merchants before the bill is printed.
+https://play.google.com/store/apps/details?id=np.com.worldlink.worldlinkgoapp . 
+http://godiscount.com.np/client_register
+NetTV:	
+Upgrade your TV package for more channels of you choice. You can now opt for Entertainment Prime and Sports Prime packages for more of entertainment and sports channel on demand. Also, you can go for ALL Prime packages too, to get the overall TV experience. 
+Safenet:
+Keeping a family cyber secure is the primary need of today's smart family. Safenet feature provides you facilities like Ad blocking, child safety, virus protection, web filtering and time management. This will help the internet a safer place for your kids and help them get the best out of it.
+?
+Human: hello worldlink
+Reply: Hello sir/mam how can we assist you?
+Human: I am searching for the good internet.
+Reply: You want a new connection sir/mam?
+Human: Yes i do😃️.
+Reply: We have different package for the office use and the home usages. Which one are you interested in?
+Human: I am only one user. I do lots of googling. Which one you suggest me?
+Reply : 25 Mbps 1 Month (Free NetTv Package)
+1 Month Fee: Rs 1550 + 13%VAT: Rs  1752
+Drop Wire: Rs 500+ 13 % VAT : Rs 565
+Fiber router : Rs 1000+ 13 % VAT : Rs 1130
+Installation Charge: Free
+Refundable deposit: Rs 500 (No Tax)
+Total  : Rs 3,947
+With NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With NetTv Total: Rs.5,012
+**Please be informed that Upload Speed will only be 20mbps.**
+Human: I don't want NETTV I have got its alternative.
+Reply: Okay sir/mam
+25 Mbps 1 Month (Free NetTv Package)
+1 Month Fee: Rs 1550 + 13%VAT: Rs  1752
+Drop Wire: Rs 500+ 13 % VAT : Rs 565
+Fiber router : Rs 1000+ 13 % VAT : Rs 1130
+Installation Charge: Free
+Refundable deposit: Rs 500 (No Tax)
+Total  : Rs 3,947
+Human: Are you kidding me?
+Reply: No sir/mam
+Human:  Its so expensive.
+Reply: That is the minimum package we have got sir/mam.
+Human: Okay 
+Reply: Okay sir/mam
+
+Human: wordlink
+Reply: Hello sir/mam how can we assist you?
+Human: I want your connection.
+Reply: You want a new connection sir/mam?
+Human: I want only internet. Please give me the detail price of internet with least price.
+Reply : 25 Mbps 1 Month (Free NetTv Package)
+1 Month Fee: Rs 1550 + 13%VAT: Rs  1752
+Drop Wire: Rs 500+ 13 % VAT : Rs 565
+Fiber router : Rs 1000+ 13 % VAT : Rs 1130
+Installation Charge: Free
+Refundable deposit: Rs 500 (No Tax)
+Total  : Rs 3,947
+With NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With NetTv Total: Rs.5,012
+**Please be informed that Upload Speed will only be 20mbps.**
+Human: Is this a minimum price of the internet you have got?
+Reply: Yes sir/mam
+Human: What about internet with nettv?
+Reply: 1 Month Packages With NetTv
+25 Mbps 1 Month (Free NetTv Package)
+1 Month Fee: Rs 1550 + 13%VAT: Rs  1752
+Drop Wire: Rs 500+ 13 % VAT : Rs 565
+Fiber router : Rs 1000+ 13 % VAT : Rs 1130
+Installation Charge: Free
+Refundable deposit: Rs 500 (No Tax)
+Total  : Rs 3,947
+With NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With NetTv Total: Rs.5,012
+**Please be informed that Upload Speed will only be 20mbps.**
+Human: Do you have internet for the differnet months?
+Reply: Yes sir/mam We do.
+Human: Please give me the detail of 3 month with nettv.
+Reply: 25 Mbps 3 Months (Free NetTv Package)
+3 Month Fee: Rs 4500 + 13% VAT: Rs  5085
+Drop Wire: Rs 500+ 13 % VAT : Rs 565                            
+Fiber router : Rs 500 + 13 % VAT : Rs 565
+Installation Charge: Free
+Refundable deposit: Rs 500 (No Tax)
+Total  : Rs 6,715
+With NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With NetTv Total: Rs. 7,780
+**Please be informed that Upload Speed will only be 20mbps.**
+Human: Why it is so expensive Vianet and subisu internet is cheaper than yours?
+Reply: We don't know about other ISP company sir/mam. We have got this price of the internet.
+Human: Can you give me the detail of 3 month 25 Mbps without NETTV.
+Reply: 25 Mbps 3 Months
+3 Month Fee: Rs 4500 + 13% VAT: Rs  5085
+Drop Wire: Rs 500+ 13 % VAT : Rs 565                            
+Fiber router : Rs 500 + 13 % VAT : Rs 565
+Installation Charge: Free
+Refundable deposit: Rs 500 (No Tax)
+Total  : Rs 6,715
+Human: Okay
+Reply: Okay sir/mam
+
+Human: 🤑️🤑️🤑️
+Reply: Hello sir/mam how can we assist you?
+Human: Can you give me the detail price of all the internet packages you have?
+Reply: sure sir/mam
+1 Month Packages With NetTv:
+25 Mbps 1 Month (Free NetTv Package)
+1 Month Fee: Rs 1550 + 13%VAT: Rs  1752
+Drop Wire: Rs 500+ 13 % VAT : Rs 565
+Fiber router : Rs 1000+ 13 % VAT : Rs 1130
+Installation Charge: Free
+Refundable deposit: Rs 500 (No Tax)
+Total  : Rs 3,947
+With NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With NetTv Total: Rs.5,012
+**Please be informed that Upload Speed will only be 20mbps.**
+40 Mbps 1 Month (Free 2 NetTv Packages)
+1 Month Fee: Rs 1850 + 13% VAT: Rs  2090
+Drop Wire: Rs 500+ 13 % VAT : Rs 565                                                                                         
+Fiber router : Rs 1000+ 13 % VAT : Rs 1130                                                                          
+Installation Charge: Free
+Refundable deposit: Rs. 500(No Tax)
+Total  : Rs. 4,285
+With 1 NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 1 NetTv Total : Rs. 5,350
+With 2  NetTv STB:
+Activation Charge: Rs. 1500 + 13%VAT: Rs 1,695
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 2 NetTv Total: 7,545.
+**Please be informed that Upload Speed will only be 20mbps.**
+ 40 Mbps 1 Month (Free 3 NetTv Packages)
+1 Month Fee: Rs 2,000 + 13% VAT: Rs 2,260
+Drop Wire: Rs 500+ 13 % VAT : Rs 565                                                                                         
+Fiber router : Rs 1,000+ 13 % VAT : Rs 1,130                                                                          
+Installation Charge: Free
+Refundable deposit: Rs 500(No Tax)
+Total  : Rs 4,455
+With 1 NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 1 NetTv total: Rs. 5,520
+With 2  NetTv STB:
+Activation Charge: Rs. 1500 + 13%VAT: Rs 1,695
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 2 NetTv Total: 7,715.
+**Please be informed that Upload Speed will only be 20mbps.**
+60 Mbps 1 Month (Free 3 NetTv packages) 
+1 Month Fee: Rs 2700 + 13% VAT: Rs  3,051
+Drop Wire: Rs 500+ 13 % VAT : Rs 565                                                                                         
+Fiber router : Rs 1000+ 13 % VAT : Rs 1130                                                                          
+Installation Charge: Free
+Refundable deposit: Rs 500(No Tax)
+Total  : Rs 5,246
+With 1 NetTv STB:
+Activation Charge= Rs. 500 + 13%VAT= Rs 565
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 1 NetTv STB =  Rs.6,311
+With 2 NetTv STB:
+Activation Charge= Rs. 1,500 + 13%VAT= Rs 1,695
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 2 NetTv STB = Rs. 8,506
+With 3 NetTv STB:
+Activation Charge= Rs. 1,500 + 13%VAT= Rs 1,695
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 3 NetTv STB = Rs. 10,701
+**Please be informed that Upload Speed will only be 50 Mbps*
+3 Month packages with NetTv
+25 Mbps 3 Months (Free NetTv Package)
+3 Month Fee: Rs 4500 + 13% VAT: Rs  5085
+Drop Wire: Rs 500+ 13 % VAT : Rs 565                            
+Fiber router : Rs 500 + 13 % VAT : Rs 565
+Installation Charge: Free
+Refundable deposit: Rs 500 (No Tax)
+Total  : Rs 6,715
+With NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With NetTv Total: Rs. 7,780
+**Please be informed that Upload Speed will only be 20mbps.**
+40 Mbps 3 Months ( Free 2 NetTv Packages)
+3 Month Fee: Rs 5,400 + 13% VAT: Rs.6,102
+Drop Wire: Rs 500+ 13 % VAT : Rs 565                            
+Fiber router : Rs 500+ 13 % VAT : Rs 565                    
+Installation Charge: Free
+Refundable deposit: Rs 500 (No Tax)
+Total  : Rs 7,732
+With 1 NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 1 NetTv Total: Rs. 8,797
+With 2 NetTv STB:
+Activation Charge: Rs. 1500 + 13%VAT: Rs 1,695
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 2 NetTv total : Rs 10,992
+**Please be informed that Upload Speed will only be 20mbps**
+40 Mbps 3 Months ( Free 3 NetTv Packages)
+3 Month Fee: Rs 5800 + 13% VAT: Rs  6,554
+Drop Wire: Rs 500+ 13 % VAT : Rs 565                            
+Fiber router : Rs 500+ 13 % VAT : Rs 565                    
+Installation Charge: Free
+Refundable deposit: Rs 500 (No Tax)
+Total  : Rs 8,184
+With 1 NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 1 NetTv Total: Rs. 9,249
+With 2 NetTv STB:
+Activation Charge: Rs. 1500 + 13%VAT: Rs 1,695
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 2 NetTv Total : Rs 11,444
+With 3 NetTv STB:
+Activation Charge: Rs. 1500 + 13%VAT: Rs 1,695
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 3 NetTv total : Rs 13,639
+**Please be informed that Upload Speed will only be 20mbps**
+60 Mbps 3 Month (Free 3 NetTv packages) 
+3 Month Fee: Rs 7800 + 13% VAT: Rs  8,814
+Drop Wire: Rs 500+ 13 % VAT : Rs 565                            
+Fiber router : Rs 500+ 13 % VAT : Rs 565                    
+Installation Charge: Free
+Refundable deposit: Rs 500 (No Tax)
+Total  : Rs 10,444
+With 1 NetTv STB:
+Activation Charge= Rs. 500 + 13%VAT= Rs 565
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 1 NetTv STB =  Rs.11,509
+With 2 NetTv STB:
+Activation Charge= Rs. 1,500 + 13%VAT= Rs 1,695
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 2 NetTv STB = Rs. 13,704
+With 3 NetTv STB:
+Activation Charge= Rs. 1,500 + 13%VAT= Rs 1,695
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 3 NetTv STB = Rs. 15,899
+**Please be informed that Upload Speed will only be 50 Mbps*
+12 Month packages With NetTv
+25 Mbps 12 Months (Free 1 NetTv Package)
+12 Month Fee: Rs 15000 + 13% VAT: Rs 16,950 
+Drop Wire: Free                                                                                    
+Fiber router : Rs 500+ 13 % VAT : Rs 565                                                                         
+Installation Charge: Free				
+Refundable deposit: Rs 500 (No Tax)							
+Total  : Rs 18,015
+With NetTv STB
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With NetTv Total: Rs. 19,080
+**Please be informed that Upload Speed will only be 20mbps.**
+40 Mbps 12 Months ( Free 2 NetTv Packages)
+12 Month Fee: Rs 17500 + 13% VAT: Rs 19,775
+Drop Wire: Free                                                                                          
+Fiber router : Rs 500+ 13 % VAT : Rs 565                                                                           
+Installation Charge: Free				
+Refundable deposit: Rs 500 (No Tax)							
+Total  : Rs 20,840
+With 1 NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 1 NetTv Total: Rs.21,905
+With 2 NetTv STB:
+Activation Charge: Rs. 1500 + 13%VAT: Rs 1,695
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 2 NetTv Total : Rs 24,100
+**Please be informed that Upload Speed will only be 20mbps**
+40 Mbps 12 Months ( Free 3 NetTv Packages)
+12 Month Fee: Rs 18,500+ 13% VAT: Rs 20,905
+Drop Wire: Free                                                                                           
+Fiber router : Rs 500 + 13 % VAT : Rs 565                                                                             
+Installation Charge: Free				
+Refundable deposit: Rs 500 (No Tax)							
+Total  : Rs 21,970
+With 1 NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 1 NetTv Total: Rs.23,035
+With 2 NetTv STB:
+Activation Charge: Rs. 1500 + 13%VAT: Rs 1,695
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 2 NetTv Total : Rs 25,230
+With 3 NetTv STB:
+Activation Charge: Rs. 1500 + 13%VAT: Rs 1,695
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 3 NetTv total : Rs 27,425
+**Please be informed that Upload Speed will only be 20mbps**
+ 60 Mbps 12 Months (Free 3 NetTv packages) 
+12 Month Fee: Rs 26,000 + 13% VAT: Rs 29,380
+Drop Wire: Free                                                                                          
+Fiber router : Rs 500+ 13 % VAT : Rs 565                                                                            
+Installation Charge: Free				
+Refundable deposit: Rs 500 (No Tax)							
+Total  : Rs 30,445
+With 1 NetTv STB:
+Activation Charge= Rs. 500 + 13%VAT= Rs 565
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 1 NetTv STB =  Rs.31,510
+With 2 NetTv STB:
+Activation Charge= Rs. 1,500 + 13%VAT= Rs 1,695
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 2 NetTv STB = Rs. 33,705
+With 3 NetTv STB:
+Activation Charge= Rs. 1,500 + 13%VAT= Rs 1,695
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 3 NetTv STB = Rs. 35,900
+**Please be informed that Upload Speed will only be 50 Mbps*
+Human: Is this all the packages you have got?
+Reply: Yes sir/mam
+Human: i will do research in the price and contact you later.
+Reply: sure sir/mam
+
+Human: hey
+Reply: Hello sir/mam how can we assist you?
+Human:I want to know about the 12 month pakages.
+Reply:12 Month packages With NetTv
+25 Mbps 12 Months (Free 1 NetTv Package)
+12 Month Fee: Rs 15000 + 13% VAT: Rs 16,950 
+Drop Wire: Free                                                                                    
+Fiber router : Rs 500+ 13 % VAT : Rs 565                                                                         
+Installation Charge: Free				
+Refundable deposit: Rs 500 (No Tax)							
+Total  : Rs 18,015
+With NetTv STB
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With NetTv Total: Rs. 19,080
+**Please be informed that Upload Speed will only be 20mbps.**
+40 Mbps 12 Months ( Free 2 NetTv Packages)
+12 Month Fee: Rs 17500 + 13% VAT: Rs 19,775
+Drop Wire: Free                                                                                          
+Fiber router : Rs 500+ 13 % VAT : Rs 565                                                                           
+Installation Charge: Free				
+Refundable deposit: Rs 500 (No Tax)							
+Total  : Rs 20,840
+With 1 NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 1 NetTv Total: Rs.21,905
+With 2 NetTv STB:
+Activation Charge: Rs. 1500 + 13%VAT: Rs 1,695
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 2 NetTv Total : Rs 24,100
+**Please be informed that Upload Speed will only be 20mbps**
+40 Mbps 12 Months ( Free 3 NetTv Packages)
+12 Month Fee: Rs 18,500+ 13% VAT: Rs 20,905
+Drop Wire: Free                                                                                           
+Fiber router : Rs 500 + 13 % VAT : Rs 565                                                                             
+Installation Charge: Free				
+Refundable deposit: Rs 500 (No Tax)							
+Total  : Rs 21,970
+With 1 NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 1 NetTv Total: Rs.23,035
+With 2 NetTv STB:
+Activation Charge: Rs. 1500 + 13%VAT: Rs 1,695
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 2 NetTv Total : Rs 25,230
+With 3 NetTv STB:
+Activation Charge: Rs. 1500 + 13%VAT: Rs 1,695
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 3 NetTv total : Rs 27,425
+**Please be informed that Upload Speed will only be 20mbps**
+ 60 Mbps 12 Months (Free 3 NetTv packages) 
+12 Month Fee: Rs 26,000 + 13% VAT: Rs 29,380
+Drop Wire: Free                                                                                          
+Fiber router : Rs 500+ 13 % VAT : Rs 565                                                                            
+Installation Charge: Free				
+Refundable deposit: Rs 500 (No Tax)							
+Total  : Rs 30,445
+With 1 NetTv STB: 
+Activation Charge= Rs. 500 + 13%VAT= Rs 565
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 1 NetTv STB =  Rs.31,510
+With 2 NetTv STB:
+Activation Charge= Rs. 1,500 + 13%VAT= Rs 1,695
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 2 NetTv STB = Rs. 33,705
+With 3 NetTv STB:
+Activation Charge= Rs. 1,500 + 13%VAT= Rs 1,695
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 3 NetTv STB = Rs. 35,900
+**Please be informed that Upload Speed will only be 50 Mbps*
+Human:what does that NETTV mean?
+Reply: NETTV is used to watch the tv channel through the fiber cable and help of the RJ45 cable. 
+Human: What does that Free nettv package means?
+Reply: Those free nettv package means that you will get the free nettv package or the channel or the concern interval of time.
+Human: Okay As you have said free. Why there is included the NETTV price in the list.?
+Reply: Well that the good question sir/mam. You will get the free NETTV package to watch the channel but not devices to get that feature. You have to pay for the devices.
+Human:How long we will get the free nettv package?
+Reply: It depends upon the internet package.
+Human: Let us assume, i have subscribed the internet for th.e 12 month with the package 60 Mbps 12 Months (Free 3 NetTv packages). I will get 12 month nettv package free in all the 3 Tv i only have to pay the devices price?
+Reply: Yes sir/mam
+Human: Okay Can you explain me about the deposit and the activation price.?
+Reply: Well we will provide you the router and the nettv box is rental as it is expensive. Deposit amount is the refundable amount you will get after returning the devices if you discontinue the services. You will also get the warrenty of the devices.
+Human: Well thats great. How much warrently i will be getting in the devices?
+Reply: Commonly it is 6 month. If the devices got damaged with in the time interval. Your devices will be replaced free of cost.
+human: If some of the issue is found in the internet, where i will update the issue.
+reply: To provide the quality services, we have our phone support, field support department to look into the issues. You can update to our department if you have any issue.
+Human: Thank you so much for clearly understanding the facility you provide to the user.
+Reply: Welcome sir. Have a great day
+
+Human: Respeted team
+Reply: Hello sir/mam how can we assist you?
+Human: Currently, i am using the vianet. I didn't like the services it provides to me. I  want to change my ISP company.
+Reply: okay sir. Please elaborate your query.
+Human: I want the internet connection for the gaming purpose.
+Reply: For the gaming, we have got the SME plan.SME packages
+For SME prime,you will get at least 10 hr double bandwidth than you have subscribed and other time your bandwidth will be half as per your subscription.
+For SME 24,you will get 24 hr double bandwidth as per your subscription.
+For SME prime,you will get exact bandwidth that you have subscribed during the prime time i.e office hours else than that the bandwidth might fluctuate in off hours. The package is so designed as some clients only need high speed during the office hours. 
+For SME 24,you will get 24 hr exact bandwidth as per your subscription.
+Human: Is there any usages limitation in this plan?
+Reply: No sir there is no any limitation in this plan. You can play any game with this package.
+Human: Is this the semi dedicated line?
+Reply: Yes sir/mam. This is the semi dedicated line while has no usages limit as well as you will get the inhouse public IP.
+Human: Inhouse public IP... What does it mean?
+Reply: It means you can access the others IP with this network.
+Human: Could you please elaborate your statement?
+Reply: If you subscribed SME plan, you will get the inhouse public IP which is helpfull to forward the port and get access of the external network.
+Human: Woo thats amazing. Can this package help me to play the GTA V and he CSGO.
+Reply: Sure sir. You can play the game without any inteferrance. 
+Human: Can you show me the detial price of the package.?
+Reply: Sure sir,
+SME 24
+SME 24 10mbps
+1 Month Fee: Rs 3,000 + 13% VAT= 3390
+Fiber Router Rental= Rs.1000 + 13% VAT= 1,130
+Installation Charge= FREE
+Drop Wire Charge= Rs.1000 + 13% VAT= 1,130
+Refundable Deposit= Rs.1500(NO VAT)
+Total= Rs.7,150
+3 Month Fee: Rs 8100 + 13% VAT= 9,153
+Fiber Router Rental= Rs.500 + 13% VAT=Rs.565
+Installation Charge= FREE
+Drop Wire Charge= Rs.500 + 13% VAT=Rs.565
+Refundable Deposit= Rs.1000(NO VAT)
+Total= 11,283
+12 Months Fee: Rs.30,000 + 13% VAT= 33,900
+Fiber Router Rental= Rs.500 + 13% VAT= 565
+Installation Charge= FREE
+Drop Wire Charge= Rs.500 + 13% VAT= 565
+Refundable Deposit= Rs.1000(NO VAT)
+Total= 36,030
+SME 24 20mbps
+1 Month Fee: Rs 4,000 + 13% VAT= 4,520
+Fiber Router Rental= Rs.1000 + 13% VAT= 1,130
+Installation Charge= FREE
+Drop Wire Charge= Rs.1000 + 13% VAT= 1,130
+Refundable Deposit= Rs.1500(NO VAT)
+Total= Rs. 8,280
+3 Month Fee: Rs 11000 + 13% VAT= 12,430
+Fiber Router Rental= Rs.500 + 13% VAT=Rs.565
+Installation Charge= FREE
+Drop Wire Charge= Rs.500 + 13% VAT=Rs.565
+Refundable Deposit= Rs.1000(NO VAT)
+Total= 14,560
+12 Months Fee: Rs.41,000 + 13% VAT= 46,330
+Fiber Router Rental= Rs.500 + 13% VAT= 565
+Installation Charge= FREE
+Drop Wire Charge= Rs.500 + 13% VAT= 565
+Refundable Deposit= Rs.1000(NO VAT)
+Total= 48,460
+SME PRIME
+SME PRIME 10mbps
+1 Month Fee: Rs 2,000 + 13% VAT= 2,260 
+Fiber Router Rental= Rs.1000 + 13% VAT= 1,130
+Installation Charge= FREE
+Drop Wire Charge= Rs.1000 + 13% VAT= 1,130
+Refundable Deposit= Rs.1500(NO VAT)
+Total= Rs.6,020
+3 Month Fee: Rs 5,400 + 13% VAT= 6,102
+Fiber Router Rental= Rs.500 + 13% VAT=Rs.565
+Installation Charge= FREE
+Drop Wire Charge= Rs.500 + 13% VAT=Rs.565
+Refundable Deposit= Rs.1000(NO VAT)
+Total= 8,232
+12 Months Fee: Rs 20,000 + 13% VAT= 22,600
+Fiber Router Rental= Rs.500 + 13% VAT= 565
+Installation Charge= FREE
+Drop Wire Charge= Rs.500 + 13% VAT= 565
+Refundable Deposit= Rs.1000(NO VAT)
+Total= 24,730
+SME PRIME 20mbps
+1 Month Fee: Rs 3,000 + 13% VAT= 3,390
+Fiber Router Rental= Rs.1000 + 13% VAT= 1,130
+Installation Charge= FREE
+Drop Wire Charge= Rs.1000 + 13% VAT= 1,130
+Refundable Deposit= Rs.1500(NO VAT)
+Total= Rs.7,150
+3 Month Fee: Rs 8,100 + 13% VAT= 9,153
+Fiber Router Rental= Rs.500 + 13% VAT=Rs.565
+Installation Charge= FREE
+Drop Wire Charge= Rs.500 + 13% VAT=Rs.565
+Refundable Deposit= Rs.1000(NO VAT)
+Total= 11,283
+12 Months Fee: Rs 30,000 + 13% VAT= 33,900
+Fiber Router Rental= Rs.500 + 13% VAT= 565
+Installation Charge= FREE
+Drop Wire Charge= Rs.500 + 13% VAT= 565
+Refundable Deposit= Rs.1000(NO VAT)
+Total= Rs.36,030
+Human: How can i book the package?
+Reply: You can contact 9801523052 for the new connection.
+
+Human: Hello sir
+Reply: Hello sir/mam how can we assist you?
+Human: Could you please me give the detail of the 3 months package.
+Reply: You want new connection or renew the package?
+Human: I want a new connection.
+Reply: Do you prefer internet with nettv or without nettv?
+Human: Please give the detail with the NETTV.
+Reply: 3 Month packages with NetTv
+25 Mbps 3 Months (Free NetTv Package)
+3 Month Fee: Rs 4500 + 13% VAT: Rs  5085
+Drop Wire: Rs 500+ 13 % VAT : Rs 565                            
+Fiber router : Rs 500 + 13 % VAT : Rs 565
+Installation Charge: Free
+Refundable deposit: Rs 500 (No Tax)
+Total  : Rs 6,715
+With NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With NetTv Total: Rs. 7,780
+**Please be informed that Upload Speed will only be 20mbps.**
+40 Mbps 3 Months ( Free 2 NetTv Packages)
+3 Month Fee: Rs 5,400 + 13% VAT: Rs.6,102
+Drop Wire: Rs 500+ 13 % VAT : Rs 565                            
+Fiber router : Rs 500+ 13 % VAT : Rs 565                    
+Installation Charge: Free
+Refundable deposit: Rs 500 (No Tax)
+Total  : Rs 7,732
+With 1 NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 1 NetTv Total: Rs. 8,797
+With 2 NetTv STB:
+Activation Charge: Rs. 1500 + 13%VAT: Rs 1,695
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 2 NetTv total : Rs 10,992
+**Please be informed that Upload Speed will only be 20mbps**
+40 Mbps 3 Months ( Free 3 NetTv Packages)
+3 Month Fee: Rs 5800 + 13% VAT: Rs  6,554
+Drop Wire: Rs 500+ 13 % VAT : Rs 565                            
+Fiber router : Rs 500+ 13 % VAT : Rs 565                    
+Installation Charge: Free
+Refundable deposit: Rs 500 (No Tax)
+Total  : Rs 8,184
+With 1 NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 1 NetTv Total: Rs. 9,249
+With 2 NetTv STB:
+Activation Charge: Rs. 1500 + 13%VAT: Rs 1,695
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 2 NetTv Total : Rs 11,444
+With 3 NetTv STB:
+Activation Charge: Rs. 1500 + 13%VAT: Rs 1,695
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 3 NetTv total : Rs 13,639
+**Please be informed that Upload Speed will only be 20mbps**
+60 Mbps 3 Month (Free 3 NetTv packages) 
+3 Month Fee: Rs 7800 + 13% VAT: Rs  8,814
+Drop Wire: Rs 500+ 13 % VAT : Rs 565                            
+Fiber router : Rs 500+ 13 % VAT : Rs 565                    
+Installation Charge: Free
+Refundable deposit: Rs 500 (No Tax)
+Total  : Rs 10,444
+With 1 NetTv STB:
+Activation Charge= Rs. 500 + 13%VAT= Rs 565
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 1 NetTv STB =  Rs.11,509
+With 2 NetTv STB:
+Activation Charge= Rs. 1,500 + 13%VAT= Rs 1,695
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 2 NetTv STB = Rs. 13,704
+With 3 NetTv STB:
+Activation Charge= Rs. 1,500 + 13%VAT= Rs 1,695
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 3 NetTv STB = Rs. 15,899
+**Please be informed that Upload Speed will only be 50 Mbps*
+
+Human: I want to join your internet.
+Reply: Which package you want to go with?
+Human: Do you have the one month package?
+Reply:  Yes sir we do have the one month package.
+Human: Can you send me all the detail in my mail.?
+Reply: We can send the detail in this chat sir/mam.
+Human: Ummm. Give the details.
+Reply: 1 Month Packages With NetTv
+25 Mbps 1 Month (Free NetTv Package)
+1 Month Fee: Rs 1550 + 13%VAT: Rs  1752
+Drop Wire: Rs 500+ 13 % VAT : Rs 565
+Fiber router : Rs 1000+ 13 % VAT : Rs 1130
+Installation Charge: Free
+Refundable deposit: Rs 500 (No Tax)
+Total  : Rs 3,947
+With NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With NetTv Total: Rs.5,012
+**Please be informed that Upload Speed will only be 20mbps.**
+40 Mbps 1 Month (Free 2 NetTv Packages)
+1 Month Fee: Rs 1850 + 13% VAT: Rs  2090
+Drop Wire: Rs 500+ 13 % VAT : Rs 565                                                                                         
+Fiber router : Rs 1000+ 13 % VAT : Rs 1130                                                                          
+Installation Charge: Free
+Refundable deposit: Rs. 500(No Tax)
+Total  : Rs. 4,285
+With 1 NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 1 NetTv Total : Rs. 5,350
+With 2  NetTv STB:
+Activation Charge: Rs. 1500 + 13%VAT: Rs 1,695
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 2 NetTv Total: 7,545.
+**Please be informed that Upload Speed will only be 20mbps.**
+ 40 Mbps 1 Month (Free 3 NetTv Packages)
+1 Month Fee: Rs 2,000 + 13% VAT: Rs 2,260
+Drop Wire: Rs 500+ 13 % VAT : Rs 565                                                                                         
+Fiber router : Rs 1,000+ 13 % VAT : Rs 1,130                                                                          
+Installation Charge: Free
+Refundable deposit: Rs 500(No Tax)
+Total  : Rs 4,455
+With 1 NetTv STB:
+Activation Charge: Rs. 500 + 13%VAT: Rs 565
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 1 NetTv total: Rs. 5,520
+With 2  NetTv STB:
+Activation Charge: Rs. 1500 + 13%VAT: Rs 1,695
+STB Deposit(refundable): Rs. 500 (No Tax)
+With 2 NetTv Total: 7,715.
+**Please be informed that Upload Speed will only be 20mbps.**
+60 Mbps 1 Month (Free 3 NetTv packages) 
+1 Month Fee: Rs 2700 + 13% VAT: Rs  3,051
+Drop Wire: Rs 500+ 13 % VAT : Rs 565                                                                                         
+Fiber router : Rs 1000+ 13 % VAT : Rs 1130                                                                          
+Installation Charge: Free
+Refundable deposit: Rs 500(No Tax)
+Total  : Rs 5,246
+With 1 NetTv STB:
+Activation Charge= Rs. 500 + 13%VAT= Rs 565
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 1 NetTv STB =  Rs.6,311
+With 2 NetTv STB:
+Activation Charge= Rs. 1,500 + 13%VAT= Rs 1,695
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 2 NetTv STB = Rs. 8,506
+With 3 NetTv STB:
+Activation Charge= Rs. 1,500 + 13%VAT= Rs 1,695
+STB Deposit(refundable)= Rs. 500 (No Tax)
+Total price with 3 NetTv STB = Rs. 10,701
+**Please be informed that Upload Speed will only be 50 Mbps*
+
+Human: Umm
+Reply: Hello sir/mam how can we assist you?
+Human: Can you tell me about the internet prices?
+Reply: You want new connection or you want to renew the packages.
+Human:  I am the existing customer. I just want to renew the packages. Can you send me all the detail with price of internet renew.?
+Reply: Sure sir/mam
+ Renewals for MoreThanJustHighSpeedInternet:
+25 Mbps 1 Month ( Free 1 NetTv package )
+1 Month Fee: Rs 1,500 + 13% VAT= Rs 1,695
+25 Mbps 1 Month ( Free 2 NetTv packages )
+1 Month Fee: Rs 1,800 + 13% VAT= Rs 2,034
+25 Mbps 3 Month ( Free 1  NetTv package)
+3 Month Fee: Rs 4,350 + 13% VAT= Rs 4,916
+25 Mbps 3 Month ( Free 2  NetTv packages)
+3 Month Fee: Rs 5,150+ 13% VAT= Rs 5,820
+25 Mbps 12Months ( Free 1  NetTv package )
+12 Month Fee: Rs 14,400 + 13% VAT= Rs 16,272
+25 Mbps 12Months ( Free 2  NetTv package )
+12 Month Fee: Rs 16,900 + 13% VAT= Rs 19,097 
+40 Mbps 1 Month ( Free 2  NetTv packages )
+1 Month Fee: Rs 1,800 + 13% VAT= Rs 2,034
+40 Mbps 1 Month ( Free 3  NetTv packages)
+1 Month Fee: Rs 2,000 + 13% VAT= Rs 2,260
+40 Mbps 3 Months ( Free 2  NetTv packages )
+3 Month Fee: Rs 5,150+ 13% VAT= Rs 5,820
+40 Mbps 3 Months ( Free 3  NetTv packages)
+3 Month Fee: Rs 5,500 + 13% VAT= Rs 6,215
+40 Mbps 12 Months ( Free 2  NetTv packages)
+12 Month Fee: Rs 16,900 + 13% VAT= Rs 19,097
+40 Mbps 12 Months ( Free 3  NetTv packages)
+12 Month Fee: Rs 18,000 + 13% VAT= Rs 20,340
+60 Mbps 1 Month ( Free 3  NetTv packages )
+1 Month Fee: Rs 2,700 + 13% VAT= Rs 3,051
+60 Mbps 3 Months ( Free 3  NetTv packages)
+3 Month Fee: Rs 7,500 + 13% VAT= Rs 8,475
+60 Mbps 12 Month ( Free 3  NetTv packages)
+12 Month Fee: Rs 25,000 + 13% VAT= Rs 28,250
+Human: Is this all the package that you have got?
+Reply: Yes sir it is all the package for the retial user.
+
+human: 😪️😪️😪️
+Reply: Hello sir/mam how can we assist you?
+Human:  I want to know about your device replacement terms and condition?
+Reply: Replacement Terms and Conditions
+For NetTv STB:
+1.    SetTop Box Replacement- Rental Charge- Warranty for 6months* Rs.1695(Rs.1500+13%VAT)
+2. HDMI Cable Replacement Rs.339(Rs.300+13%VAT)
+3. Remote Replacement Rs.452(Rs.400+13%VAT)
+4. Adapter of STB Replacement Rs.339(Rs.300+13%VAT)
+5. STB wire charge- Free upto 15meters(For additional wire, Rs.17 Per Meter+13%VAT)
+6. STB Wire Charge- Free upto 15meters(For additional wire, Rs.17 per meter+13%VAT)
+7. 2nd STB Wire charge(same user)- Free upto 15meters(For additional wire, Rs.17 per meter + 13%VAT)
+For ONU:
+-          Damaged due to client reasons:- Rs.3955(Rs.3500+13%VAT)
+o   Physical damage
+o   Theft / misplace
+o   High voltage of electricity
+o   Lightning
+
+-          Damaged due to natural disaster will be replaced :  Case base
+o   Flood
+o   Earthquake
+o   Landslide
+o   Strom
+-          Damaged due to software malfunction will be repaired, if could not repaired, replace free.
+-          Fast Connector Change at customer end: Rs 113(Rs.100+13%VAT)
+-	ONU Power Adapter(No Warranty/Guarantee) Rs.452(Rs.400+13%VAT)
+-	Secondary router Configuration: FREE(Retail client should visit nearest branch/ SME client wlink will visit at client end)
+For Drop Wire:
+Damaged due to client: Rs.904 (Rs.800+13%VAT) 
+Damaged due to govt/pole issues:  Rs.904 (Rs.800+13%VAT)
+Human: You are insanse 
+Reply:  No sir/mam We are not.
+
+Human: Worldlink
+Reply: Hello sir/mam how can we assist you?
+Human: My internet is not working?
+Reply: Please elbaorate your issue.
+Human: Last night, one vehicle cut of my internet fiber cable. Now my internet is not working. 
+Reply:  For Drop Wire
+Damaged due to client: Rs.904 (Rs.800+13%VAT) 
+Damaged due to govt/pole issues:  Rs.904 (Rs.800+13%VAT)
+Human: Its not my fault. That truck cut off my wire. Why do i pay for that?
+Reply: YOu have to pay for the wire sir/mam.
+Human: I will not pay send you technician.
+Reply: Please visit the concern branch office sir/mam
+human: 😡️😡️😡️
+Reply: Okay sir/mam
+
+Human: Worldlink representative
+Reply: Hello sir/mam how can we assist you?
+Human: My cable has got damaged. Could you please send here technician for the replacement?
+Reply: Which cable got damaged sir/mam?
+Human: The fiber cable from the nearest pole to my house got damaged.
+Reply: Okay sir/mam, Do you know the term and condition for the replacement sir/mam?
+Human: No i don't.
+Reply: For Drop Wire
+Damaged due to client: Rs.904 (Rs.800+13%VAT) 
+Damaged due to govt/pole issues:  Rs.904 (Rs.800+13%VAT)
+Human: Why do i pay for the wire. Mouse eat it. Mouse will pay🤣️🤣️🤣️
+Reply: If you wan to replace the wire you have to pay the amount sir/mam.
+human: 😒️😒️😒️
+Reply: If you have any query you can contact our phone support department  9801523051.
+
+human: 😜️😜️😜️
+Reply: Hello sir/mam how can we assist you?
+Human: I think my ONU device got damage. Non of the light in glowing in router.
+Reply: Have you connect the adaptor to the main electric circuit to the router?
+Human: Yes i have.
+Reply: Which router do you have?
+Human:I have got the white nokia router.
+Reply: In the backside of the router you will see the on/off button. please check it out.
+Human: Let me check.
+Reply: Okay sir/mam
+Human: Yaa there is off and on button.
+Reply: Check wheather it is on or the off?
+Human: status is off. Can i turn it on.?
+Reply: sure sir/mam Please turn it on.
+Human: Oh router has now power light glowing.
+Reply: Okay sir/mam  now it will work.
+
+Human:😎️😎️😎️
+Reply: Hello sir/mam how can we assist you?
+Human: I think my ONU device got damage. Non of the light in glowing in router.
+Reply: Have you connect the adaptor to the main electric circuit to the router?
+Human: Yes 
+Reply: Which router do you have?
+Human:I have got the white huawei router.
+Reply: In the backside of the router you will see the on/off button. please check it out.
+Human: Yaa there is off and on button.
+Reply: Check wheather it is on or the off?
+Human: status is on. 
+Reply: How long it has been you haven't upgrade your router?
+Human:  It has already been 5 year. I am using the same router.
+Reply:  Your router may get damaged. Do you know the onu term and condition for the replacement.
+Human: No i don't
+Reply: For ONU
+-          Damaged due to client reasons:- Rs.3955(Rs.3500+13%VAT)
+o   Physical damage
+o   Theft / misplace
+o   High voltage of electricity
+o   Lightning
+
+-          Damaged due to natural disaster will be replaced :  Case base
+o   Flood
+o   Earthquake
+o   Landslide
+o   Strom
+-          Damaged due to software malfunction will be repaired, if could not repaired, replace free.
+-          Fast Connector Change at customer end: Rs 113(Rs.100+13%VAT)
+-	ONU Power Adapter(No Warranty/Guarantee) Rs.452(Rs.400+13%VAT)
+-	Secondary router Configuration: FREE(Retail client should visit nearest branch/ SME client wlink will visit at client end)
+Human: okay.
+Reply: Okay sir/mam
+
+Human: 🖕️🖕️🖕️
+Reply: sorry sir/mam
+Human: 😚️😚️😚️
+Reply: Hello sir/mam how can we assist you?
+Human:  My internet is working well but my nettv is not working.
+Reply: Is there any lights glowing the in NETTV box?
+Human:  NO non of the light is glowing.
+Reply: Have you connect the adaptor to the main electric circuit to the nettv?
+Human:  Yes i have.
+Reply: How long it has been you are facing this issue?
+Human: From the morning.I guess my nettv box got damaged.
+Reply: Why do you think your nettv box got damaged.?
+Human: Because i think in morning high voltage was there in my circuit.
+Reply: Okay sir/mam. Do you know the term and condition of the NETTV boc replacement?
+Human: No i don't.
+Reply: For NetTv STB
+1.    SetTop Box Replacement- Rental Charge- Warranty for 6months* Rs.1695(Rs.1500+13%VAT)
+2. HDMI Cable Replacement Rs.339(Rs.300+13%VAT)
+3. Remote Replacement Rs.452(Rs.400+13%VAT)
+4. Adapter of STB Replacement Rs.339(Rs.300+13%VAT)
+5. STB wire charge- Free upto 15meters(For additional wire, Rs.17 Per Meter+13%VAT)
+6. STB Wire Charge- Free upto 15meters(For additional wire, Rs.17 per meter+13%VAT)
+7. 2nd STB Wire charge(same user)- Free upto 15meters(For additional wire, Rs.17 per meter + 13%VAT)
+Human: I want to talk to you. Can you make a call right now for me.?
+Reply: You can call our phone support team at 9801523051.
+
+Human:Hw brother
+Reply: Hello sir/mam how can we assist you?
+Human: I am your exisiting user. I want to refer my friend. How can i do that?
+Reply:  Do you use mobile app sir/mam?
+Human: Yes sir/mam 
+Reply: 
+Refer a friend
+1. Login to your online service or mobile application.
+2. Click on "Refer offer" tab.
+3. Fill up all the details of your friend.
+4. Click "Refer" button.
+Human: Is there any benifit by refering the friend?
+Reply: Yes sir/mam there is the benifir for refering friends.
+human: Could you please explain the benifit?
+Reply: If you refer to your friend, You will get the one month internet package free in any of the current package subscribe. You will only get reward after your friend pay the first amount of the internet.After that you can claim the reward.
+Human: Woo Thats cool. How can i claim the reward?
+Reply: After your friend make the first payment. You can claim the offer from the mobile app. You can follow the same step as you refer your friend. You will get to see the claim button in  your application. Note that you should claim the reward within one month of your friend has made the payment.
+human: Okay sir
+Reply: Okay sir/mam
+
+Human: hey
+Reply: Hello sir/mam how can we assist you?
+Human: After i stepup the internet, if there is of the issue regrding the internet. Whome do i contact?
+Reply: We have ticket service for 24x7 where you can assign from online service or mobile application so that our support representative will contact you for your query. We also have online chat portals through our official website(www.worldlink.com.np) and our official facebook page inbox  too. We will always be available from 6am to 10pm.Besides Phone Calls, Mobile App eService, eMails, Facebook (Web based ChatSupport) is also a feature/platform available for our valued customers to report issues or reach us in most effective way. We apologise that you might have been informed in an inappropriate way. However, we would be glad to assist you in every possible way and glad that you made it up to here, is your issues resolved? If not, we request you to inbox us with your username. We would be glad to assist you right away.
+Human: Okay if my internet got down in saturday. Will you come and maintain it?
+Reply: Your issue will be solve as soon as possible sir/mam
+Human: I may have got important work. I may need the support at the concern time.
+Reply: You will get the support at that concern time but if there is any of the outages and technical issue in the connection it will take some time.
+Human: Could you mention the time?
+Reply: Your issue will be solve within 24 hour sir/mam.
+
+Human: Hello
+Reply: Hello sir/mam how can we assist you?
+
+Human: Hey boro
+Reply: Hello sir/mam how can we assist you?
+Human: I want a new connection. Please send be the detail with price for the office use.
+Reply: For the office use we have got the SME plan  SME prime,you will get at least 10 hr double bandwidth than you have subscribed and other time your bandwidth will be half as per your subscription.
+For SME 24,you will get 24 hr double bandwidth as per your subscription.
+For SME prime,you will get exact bandwidth that you have subscribed during the prime time i.e office hours else than that the bandwidth might fluctuate in off hours. The package is so designed as some clients only need high speed during the office hours. 
+For SME 24,you will get 24 hr exact bandwidth as per your subscription.
+Human: Can you tell be about the SME prime package with detail pricing?
+Reply: sure sir
+SME PRIME 10mbps
+1 Month Fee: Rs 2,000 + 13% VAT= 2,260 
+Fiber Router Rental= Rs.1000 + 13% VAT= 1,130
+Installation Charge= FREE
+Drop Wire Charge= Rs.1000 + 13% VAT= 1,130
+Refundable Deposit= Rs.1500(NO VAT)
+Total= Rs.6,020
+
+3 Month Fee: Rs 5,400 + 13% VAT= 6,102
+Fiber Router Rental= Rs.500 + 13% VAT=Rs.565
+Installation Charge= FREE
+Drop Wire Charge= Rs.500 + 13% VAT=Rs.565
+Refundable Deposit= Rs.1000(NO VAT)
+Total= 8,232
+
+12 Months Fee: Rs 20,000 + 13% VAT= 22,600
+Fiber Router Rental= Rs.500 + 13% VAT= 565
+Installation Charge= FREE
+Drop Wire Charge= Rs.500 + 13% VAT= 565
+Refundable Deposit= Rs.1000(NO VAT)
+Total= 24,730
+
+SME PRIME 20mbps
+1 Month Fee: Rs 3,000 + 13% VAT= 3,390
+Fiber Router Rental= Rs.1000 + 13% VAT= 1,130
+Installation Charge= FREE
+Drop Wire Charge= Rs.1000 + 13% VAT= 1,130
+Refundable Deposit= Rs.1500(NO VAT)
+Total= Rs.7,150
+
+3 Month Fee: Rs 8,100 + 13% VAT= 9,153
+Fiber Router Rental= Rs.500 + 13% VAT=Rs.565
+Installation Charge= FREE
+Drop Wire Charge= Rs.500 + 13% VAT=Rs.565
+Refundable Deposit= Rs.1000(NO VAT)
+Total= 11,283
+
+12 Months Fee: Rs 30,000 + 13% VAT= 33,900
+Fiber Router Rental= Rs.500 + 13% VAT= 565
+Installation Charge= FREE
+Drop Wire Charge= Rs.500 + 13% VAT= 565
+Refundable Deposit= Rs.1000(NO VAT)
+Total= Rs.36,030
+Human: Why it is so expensive?
+Reply: No sir it is the best price we have got for the office packages.
+Human: Okay 
+Reply: Okay sir/mam
+
+Human: Hey Worldink.
+Reply: Hello sir/mam how can we assist you?
+Human: I am developer and i want to forward my port for the educational purpose. Can you give me the access to it?
+Reply: We regret to inform you that our FTTH Customers won’t be able to access the FTTH router because of the rental/security policy of WorldLink.
+Human: That not fair. We have pay the amount you have declare.
+Reply: We have provided the router in rental. Due to security purpose, you are not able to access the router page.
+Human: Is there any way to access the router?
+Reply: No sir/mam there is none of the way.
+Human: You have robbed me.
+Reply: Pardon sir
+
+Human: Hi
+Reply: Hello sir/mam how can we assist you? 
+Human: I want to access my router.
+Reply: We appreciate your query and glad that you brought it forward. The access to ONT devices from client's end was restricted due to security issues and rental policy of the company. There were multiple cases where unknown people created multiple SSID and misused volume and bandwidth at client's end resulting slow and intermittent connection. However, the sweet part is that you can use our mobile app "MyWorldLink" to change your Wi-Fi password, keep an eye on your DHCP list, account history, eService and all. We also would like to inform you that there are features like MAC filtering and reboot options available in mob app itself.
+Human: Such as insanse.
+Reply: Sorry
+
+Human: oi
+Reply: Hello sir/mam how can we assist you?
+Human: I want to access my router to change the wifi password.
+Reply:  We regret to inform you that our FTTH Customers won’t be able to access the FTTH router because of the rental/security policy of WorldLink.We appreciate your query and glad that you brought it forward. The access to ONT devices from client's end was restricted due to security issues and rental policy of the company. There were multiple cases where unknown people created multiple SSID and misused volume and bandwidth at client's end resulting slow and intermittent connection. However, the sweet part is that you can use our mobile app "MyWorldLink" to change your Wi-Fi password, keep an eye on your DHCP list, account history, eService and all. We also would like to inform you that there are features like MAC filtering and reboot options available in mobile application itself.
+Human:Okay.
+Reply:Okay sir
+
+Human: You are such an insanse and money minded people.
+Reply: Hello sir/mam how can we assist you? 
+Human: We have paid the money for the internet but due to your fucking policy my internet is slow. It is a joke?
+Reply: Please elaborte your query also mind your language.
+Human: Why do i mind my language? How can i remove the FUP?
+Reply: You have to control your bandwidth as well as control your download to remove the FUP?
+Human: Is there any alternative to remove the FUP? Give me your account number i can send you the amount.
+Reply: There is no any alternative way to remove the FUP even your money can't help you. 
+
+Human:Hey worldink
+Reply: Hello sir/mam how can we assist you? 
+Human: I heard that you also prove the TV channel services to the client. Is that true?
+Reply: Yes sir we too provide the TV channel services to the clinet. Not only channel but you will receive the NETTV box with adds on facility.
+Human: Thats great bro.
+Reply: For more details, feel free to contact our sales department at 9801523052. 
+Human: Thank You!
+Reply: Welcome sir/mam
+
+Human: Hello
+Reply: Hello sir/mam how can we assist you? 
+Human: I am your old customer. I want to know about your NETTV services.
+Reply: YouTube services in NetTv is available now. The old NetTv set top box is not compatible for the YouTube and future updates. So, we introduced new updated premium NetTv set top box. Which is compatible for YouTube feature and future updates. You are requested to exchange the STB which costs Nrs.500 + 13% VAT for STB replacement and have to update the current internet package to new package. Please visit to your concerned branch office to get the new updated NetTv setup box. . 
+Note: All setup including remote, adapter should be brought and packages must be updated accordingly at the time of renewal.Kindly inbox us to know more about the replacement of the NetTv STB.
+
+
+Human: Hello sir
+Reply: Hello sir/mam how can we assist you? 
+HUman: I am your existing user. I have also subscribe to your NETTV. I have heard that wordlink has provide web application and mobile application NETTV sevices. 
+Reply: Yes sir/mam That true.  We have release our new web and mobile application services. 
+Human: Am i eligible for that services?
+Reply: Definately sir/mam. You are elegible for that services.
+You can follow the below steps to download the app/application
+We have come up with new Net TV Web App and Mobile App. As we are in the initial phase, channels are being added. Though all the channels are not available, you can use the available ones for now through your ISP credential.Thank you so much for your patience. We will get back to you soon.
+NetTv Official Facebook Page: https://www.facebook.com/TVChannelProvider/
+NetTv Official Website: http://www.nettv.com.np/
+Please go through this link to open NetTv Web App:
+https://webtv.nettv.com.np/login
+Please go through this link to open NetTv Mobile App:
+https://play.google.com/store/apps/details?id=np.com.nettv
+Note: This mobile app link is only for android user for now. We are working for iOS user too.
+Human: Can you please explain me about the credential i need to login.?
+Reply: Sure sir/mam. There is teo credential to login.They are username and the online services password.
+Human: Okay i know about my username but online services password, what does it mean?
+Reply: Online services password is the password used to login to know your internet status, web login and mobile login. YOu can reset this password from the mobile app/application and the web app/application. 
+Human: Okay if you don't mind can you guide me to reset the online services password myself?
+Reply: Sure sir/mam
+From the worldlink web application/app:
+Go to www.worldlink.com.np
+Click on “Online Services” (https://eservice.worldlink.com.np/login/)
+Click on “Forgot Password?” (https://eservice.worldlink.com.np/recover/forgot_password)
+Enter your username and email address/mobile number registered to the username.
+From the worldlink mobile app/application:
+Open your mobile app/application
+Tap in main router >> WAN>> in the bottom tap in forgot password?reset request
+After taping the forgot password?reset request button you will receive the message with the code. The code is six digit.
+Human: THank you for you time brother.
+Reply: Welcome sir/mam
+
+
+Human: 🤑️🤑️🤑️
+Reply: Hello sir/mam how can we assist you? 
+Human: I am your customer and i want to watch the tv channel in the mobile app/application.
+Reply: Sure sir/mam. We have also provide the TV services in web and the mobile app.application.
+Human: Woo thats greats.
+Reply: Yes sir/mam its amazing.
+Human: How can i utilized that services?
+Reply: You can follow the below steps to download the app/application
+We have come up with new Net TV Web App and Mobile App. As we are in the initial phase, channels are being added. Though all the channels are not available, you can use the available ones for now through your ISP credential.Thank you so much for your patience. We will get back to you soon.
+NetTv Official Facebook Page: https://www.facebook.com/TVChannelProvider/
+NetTv Official Website: http://www.nettv.com.np/
+Please go through this link to open NetTv Web App:
+https://webtv.nettv.com.np/login
+Please go through this link to open NetTv Mobile App:
+https://play.google.com/store/apps/details?id=np.com.nettv
+Note: This mobile app link is only for android user for now. We are working for iOS user too.
+Online services password is the password used to login to know your internet status, web login and mobile login. YOu can reset this password from the mobile app/application and the web app/application. 
+From the worldlink web application/app:
+Go to www.worldlink.com.np
+Click on “Online Services” (https://eservice.worldlink.com.np/login/)
+Click on “Forgot Password?” (https://eservice.worldlink.com.np/recover/forgot_password)
+Enter your username and email address/mobile number registered to the username.
+From the worldlink mobile app/application:
+Open your mobile app/application
+Tap in main router >> WAN>> in the bottom tap in forgot password?reset request
+After taping the forgot password?reset request button you will receive the message with the code. The code is six digit.
+Human: Thank you for your coorporation.
+Reply: welcome sir. 
+
+
+Human: Hey.
+Reply: Hello sir/mam how can we assist you? 
+Human: Can you guide me to install the NETTV?
+Reply: Did you gather the NETTV box from the concern branch office?
+Human: Yaa i did. I just received from the kapan branch.
+Reply: Okay sir/mam
+NETTV Installation process is very simple. Here, we have added a video for our customers about "NETTV Installation Guide" https://www.worldlink.com.np/video_tutorials/ which will guide you step-by-step.
+Human: Okay let me try. If i stuck anywhere i will again text you.
+Reply: Sure sir/mam
+
+
+Human: hi sister
+Reply: Hello sir/mam how can we assist you?
+Human: If you don't mind can you teach me to watch the nettv from the web.
+Reply: Sure sir/mam 
+You can follow the below steps to download the app/application
+We have come up with new Net TV Web App and Mobile App. As we are in the initial phase, channels are being added. Though all the channels are not available, you can use the available ones for now through your ISP credential.Thank you so much for your patience. We will get back to you soon.
+NetTv Official Facebook Page: https://www.facebook.com/TVChannelProvider/
+NetTv Official Website: http://www.nettv.com.np/
+Please go through this link to open NetTv Web App:
+https://webtv.nettv.com.np/login
+Please go through this link to open NetTv Mobile App:
+https://play.google.com/store/apps/details?id=np.com.nettv
+Note: This mobile app link is only for android user for now. We are working for iOS user too.
+Online services password is the password used to login to know your internet status, web login and mobile login. YOu can reset this password from the mobile app/application and the web app/application. 
+From the worldlink web application/app:
+Go to www.worldlink.com.np
+Click on “Online Services” (https://eservice.worldlink.com.np/login/)
+Click on “Forgot Password?” (https://eservice.worldlink.com.np/recover/forgot_password)
+Enter your username and email address/mobile number registered to the username.
+From the worldlink mobile app/application:
+Open your mobile app/application
+Tap in main router >> WAN>> in the bottom tap in forgot password?reset request
+After tapping the forgot password?reset request button you will receive the message with the code. The code is six digit.
+Human: Okay thank you for your support.
+Reply: welcome sir/mam
+
+Human: oo what is New internet standard?
+Reply: Our new internet standard is more than just an internet package. With our new packages we tend to create more options for our growing customer demographic which will enhance our internet experience.
+Human: Okay
+Reply: okay sir/mam
+
+human: Hey 
+Reply: Hello sir/mam how can we assist you?
+Human: i want to know about the time back system of the worldink. I have read you post but i didn't understand what exatly you are trying to say?
+Reply: We, at worldlink, always strive to provide uninterrupted internet service and value your investment. However, incase of unavoidable circumstances, we bring you the service to makeup for loss caused by internet outages or regular maintenance. We will compensate if your issues are not responded within 24 hours.
+Human: Okay i don'r use the internet for five/5 days Can i claim this?
+Reply: No sir/mam. You can only claim when you internet is down or we may failed to provide services to you due to area issue or the outage. If you try to claim this without outages. You will be disapointed.
+Human: oo i got it. Thank you
+Reply: Welcome sir/mam
+
+HUman: Hi
+Reply: Hello sir/mam how can we assist you?
+Human: i want to compensate days that i am not able to use the internet?
+Reply: For how long days you are not able to use the internet?
+Human: I guess for the four/4 days.
+Reply: Have you update before for the compensation?
+Human: No i haven't.
+Reply: Haven't you receive any notice about the compensation?
+Human: Well, i was out of town. I just came back. I haven't use the internet for the past 5 days. Now i want the compensation.
+Reply: We, at worldlink, always strive to provide uninterrupted internet service and value your investment. However, incase of unavoidable circumstances, we bring you the service to makeup for loss caused by internet outages or regular maintenance. We will compensate if your issues are not responded within 24 hours.
+Human: So what?
+Reply: You can only claim when you internet is down or we may failed to provide services to you due to area issue or the outage. If you try to claim this without outages. You will be disapointed. 
+Human: If you cant't compensate me why did you give ads on the internet and the pages for the time back feature. Useless fellow.
+Reply: I repeat,You can only claim when you internet is down or we may failed to provide services to you due to area issue or the outage. If you try to claim this without outages. Beside this you will not be compensate.
+Human: 😡️ 😡️ 😡️ 
+Reply: Okay sir/mam
+
+Human: oi
+Reply: Hello sir/mam how can we assist you?
+Human: My internet was down for the past one week due to the road explainsion near maitidevi. Can i get the compensation for the past 7 days.
+Reply: Sure sir/mam. You will be compensate for the lost of the internet.
+To compensate open your mobile app:  
+tap in home>> there you will be get the compensate button. Please tap that button and wait for the one day. 7days will be added in your account.
+Human: Cool 
+Reply: okay sir/mam
+
+Human: Hello
+Reply: Hello sir/mam how can we assist you?
+Human: Can you tell me about the manage wifi  feature of the worldlink?
+Reply: Managed Wifi
+We have come up with a feature that gives you access to the list of devices connected to your router and total bandwidth usage. Furthermore, with just a small upgrade, you can get dual band router for better internet experience. 
+Human: Really, now we are able to check the activity of our internet?
+Reply: Yes sir/mam. Now you can from the web and the mobile app.
+Human: Can you guide me to check my activity.
+Reply: Do you use worldlink mobile app.
+Human: Yes i do.
+Reply: Well open you mobile app and top in Home>>connected devices.You can also gain information about the application from the 
+https://www.youtube.com/watch?v=FAXYr9C8jfs
+Human: okay 
+Reply: Okay sir/mam
+
+Human:  Namastae sir.
+Reply: Namastae sir/mam. How can we help you?
+Human : My internet is not working well for a past few days.
+Reply: Please mention your username and the number sir/mam.
+Human: My username is rukesh_home. 
+Reply: How far are you from your router sir/mam?
+Human: I am next to my router. 
+Reply: How many lights are glowing in your router?
+Human: I have got the black nokia router. The lights glowing are AUTH,POWER,LINK, WLAN. 
+Reply: Can you please turn off the router and check after five minutes. 
+Human: Sure sir/mam.  Thanks a lot.
+Reply: welcome sir
+
+Human: Hello, worldlink.
+Reply: Hello sir/mam. How can we assist you?
+Human: Could you please mention the Customer Accounts number?
+Reply: Sure sir/mam. The account number is 9801523053. 
+Human: Thank you so much dear. Have a beautiful day.
+Reply: Welcome and same to you sir/mam.  
+
+Human: Hello.
+Reply: Hello sir/mam. How can we assist you?
+Human: Please mention the Accounts number?
+Reply: Sure sir/mam. The account number is 9801523053. 
+Human: Thank you.
+Reply: Welcome sir/mam. 
+
+Human: Hello, Provide me the account number.
+Reply: Hello sir/mam. The account number is 9801523053. 
+
+
+Human: Hey, worldlink.
+Reply: Hello sir. How can we assist you?
+Human: Please mention the Accounts number?
+Reply: Sure sir. The account number is 9801523053. 
+Human: Thank you.
+Reply: Welcome sir. Have a great day. 
+
+Human: oi worldlink.
+Reply: Hello sir. How can we assist you?
+Human: Tero tauko.
+Reply: Sorry sir.
+Human: Provide me the account number.
+Reply: The account number is 9801523053. 
+
+Human: Hi, worldlink.
+Reply: Hello sir. How can we assist you?
+Human: Could you please mention your name?
+Reply: Sorry sir, We are not allowed to provide our information. Please mention your query.
+Human: Get lost.
+Reply: Do you have any query regarding the internet connection?
+Human: Have a gud day.
+Reply: We loved to provide you the facility sir.
+
+
+Human: Hey Internet service Provider.
+Reply: Hello sir. How can we assist you?
+Human: Could you please mention the sales department number?
+Reply: Sure sir. The sales number is 9801523052. 
+Human: Thank you so much dear. Have a beautiful day.
+Reply: Welcome and same to you sir.  
+
+Human: Hey, worldink.
+Reply: Hello sir. How can we help you?
+Human: Could mention the sales department number?
+Reply: Sure sir. The sales number is 9801523052. 
+
+Human: Hey Internet service Provider.
+Reply: Hello sir. How can we assist you?
+Human: Could you please mention the sales department number?
+Reply: Sure sir. The sales number is 9801523052. 
+Human: Thank you so much dear. Have a beautiful day.
+Reply: Welcome and same to you sir.  
+
+
+Human: oi worldlink.
+Reply: Hello sir. How can we assist you?
+Human: Tero tauko.
+Reply: Sorry sir.
+Human: Provide me the sales number.
+Reply: The account number is 9801523052. 
+
+Human: Hi, worldlink.
+Reply: Hello sir. How can we assist you?
+Human: Could you please mention your name?
+Reply: Sorry sir, We are not allowed to provide our information. Please mention your query.
+Human: Get lost.
+Reply: Do you have any query regarding the internet connection?
+Human: Provide be the sales number.
+Reply: Sure sir. The sales number is 9801523052.
+
+
+Human: oi.
+Reply: Hello sir. How can we assist you?
+Human: Could you please mention the sales department number?
+Reply: Sure sir. The sales number is 9801523052. 
+Human: Thank you so much dear. Have a beautiful day.
+Reply: Welcome and same to you sir.  
+
+Human: Provide me the sales number.
+Reply: Hello sir. The sales number is 9801523052. 
+
+Human: Namastae sir.
+Reply: Namastae sir. How can we assist you?
+Human : Provide me the advace connection number.
+Reply: Please elaborate your query sir.
+Human: I want a new connection. Please mention the sales number.
+Reply: The sales number is 9801523052.
+Human: Thanks a lot.
+Reply: welcome sir
+
+Human: Namastae.
+Reply: Namastae sir. How can we help you?
+Human :Do you have the Hosting services?
+Reply: Sure sir, We do have the hosting services. Please contact 9851044885 for the hosting.
+Human: Thanks a lot. Could you please mention your name.
+Reply: Sorry sir, We are not allowed to provide our information.
+Human: Okay have a great day. 
+Reply: Thank you sir.
+
+Human: Hello, worldlink.
+Reply: Hello sir. How can we assist you?
+Human: Could you please mention the Hosting department number?
+Reply: Sure sir. The web hosting number is 9851044885. 
+Human: Thank you so much dear. Have a beautiful day.
+Reply: Welcome and same to you sir.  
+
+Human: Hey Internet service Provider.
+Reply: Hello sir. How can we assist you?
+Human: Could you please mention the  Web Hosting department number?
+Reply: Sure sir. The number is 9851044885. 
+Human: Thank you.
+Reply: Welcome sir.
+
+Human: Hi, worldlink.
+Reply: Hello sir. How can we assist you?
+Human: Could you please mention your name?
+Reply: Sorry sir, We are not allowed to provide our information. Please mention your query.
+Human: Could you please mention the Hosting department number?
+Reply: Sure sir. The web hosting number is 9851044885. 
+Human: Thank you so much.
+Reply: Welcome sir.
+
+Human: oi.
+Reply: Hello sir. How can we help you?
+Human: Could you please mention the Hosting number?
+Reply: Sure sir. The web hosting number is 9851044885. 
+Human: Thank you so much.
+Reply: Welcome sir.
+
+
+Human: Hey, worldlink.
+Reply: Hello sir. How can we assist you?
+Human: Please mention the Hosting number?
+Reply: Sure sir. The web hosting number is 9851044885. 
+
+
+Human: Namastae.
+Reply: Namastae sir/mam. How can we help you?
+Human :I am facing the internet problem from past one month.
+Reply: Please elaborate your issue sir.
+Human: I do not want to elabrate my issue. Provide me your concern person number.
+Reply: Sorry sir, We do not have direct contact number for the respective branch office but you can contact our phone support team at 9801523051 from where your call will be transferred to your respective branch office. 
+
+
+Human: Namastae sir.
+Reply: Namastae sir/mam. How can we assist you?
+Human : Provide me the concern person number.
+Reply: Please elaborate your query sir.
+Human: I want a new connection. Please mention the sales number.
+Reply: The sales number is 9801523052.
+Human: Thanks a lot.
+Reply: welcome sir
+
+
+Human: Namastae
+Reply: Namastae sir/mam. How can we assist you?
+Human : Provide me the advace connection number.
+Reply: Please elaborate your query sir.
+Human: I want a new connection. Please mention the sales number.
+Reply: The sales number is 9801523052.
+Human: Thanks a lot.
+Reply: welcome sir
+
+Human: oi.
+Reply: Hello sir/mam. How can we help you?
+Human: Could you please number of balaju branch?
+Reply: Sorry sir, We do not have direct contact number for the respective branch office but you can contact our phone support team at 9801523051 from where your call will be transferred to your respective branch office. 
+Human: Are you dump?
+Reply: No sir/mam.
+
+Human: Hello.
+Reply: Hello sir/mam. How can we assist you?
+Human: My internet is not working. Could you please provie me the concern person number.?
+Reply: Sorry sir, We do not have direct contact number for the respective branch office but you can contact our phone support team at 9801523051 from where your call will be transferred to your respective branch office. 
+Human: Thank you.
+Reply: Welcome sir/mam. 
+
+Human: Namastae.
+Reply: Namastae sir/mam. How can we assist you?
+Human :I am facing the internet problem. I want your number.
+Reply: Sorry sir, We do not have direct contact number for the respective branch office but you can contact our phone support team at 9801523051 from where your call will be transferred to your respective branch office. 
+
+Human: Oi sunta.
+Reply: Namastae sir/mam. How can we help you?
+Human :I want your branch number.
+Reply: Sorry sir, We do not have direct contact number for the respective branch office but you can contact our phone support team at 9801523051 from where your call will be transferred to your respective branch office. 
+Human: Okay
+Reply: Welcome sir/mam.
+
+
+Human: Hey.
+Reply: Hello sir/mam. How can we assist you?
+Human: Please mention the number to contact your representative. I want to update my issue.?
+Reply: Sorry sir, We do not have direct contact number for the respective branch office but you can contact our phone support team at 9801523051 from where your call will be transferred to your respective branch office.  
+Human: Thank you.
+Reply: Welcome sir. Have a great day. 
+
+Human: Namastae
+Reply: Namastae sir/mam. How can we assist you?
+Human : Provide me the branch number.
+Reply: Sorry sir, We do not have direct contact number for the respective branch office but you can contact our phone support team at 9801523051 from where your call will be transferred to your respective branch office.
+Human: Thanks a lot.
+Reply: welcome sir/mam
+
+Human: Hello
+Reply: Hello sir/mam. How can we assist you?
+Human: Could you mention me the opening and the closing time of the branch office?
+Reply: Sure sir. 
+Working Hours: 
+Head office (Jawlakhel) :  7 am to 6pm (Sunday to Friday)11 am to 3 pm (Saturday)
+Branch Offices :  7 am to 6pm (Sunday to Friday)11 am to 3 pm (Saturday)
+Human: Thank you so much
+Reply:  welcome sir/mam
+
+
+Human: Oi.
+Reply: Namastae sir/mam. How can we help you?
+Human :Could you please mention the opening hour of the branch.
+Reply: Sure sir. 
+Working Hours: 
+Head office (Jawlakhel) :7 am to 6pm (Sunday to Friday)11 am to 3 pm (Saturday)
+Branch Offices :  7 am to 6pm (Sunday to Friday)11 am to 3 pm (Saturday)
+Human: Thank you so much
+Reply:  welcome sir/mam
+
+Human: Namastae sir.
+Reply: Namastae sir. How can we assist you?
+Human : I want to visit your branch office.
+Reply: Sure sir. 
+Working Hours: 
+Head office (Jawlakhel) :7 am to 6pm (Sunday to Friday)11 am to 3 pm (Saturday)
+Branch Offices :  7 am to 6pm (Sunday to Friday)11 am to 3 pm (Saturday)
+Human: okay
+Reply:  welcome sir/mam
+
+Human: Hey
+Reply: Hello sir/mam. How can we assist you?
+Human: I want to hide my wifi ssid bro.
+Reply: Okay sir/mam 
+We have got two method to hide the network.
+Steps to hide WiFi SSID
+From Official website:
+1. Go to our website: WorldLink.com.np
+2. Click on Online Services
+3. Enter your username and online services password on the given field.
+4. Click on “UPDATE SSID” Button
+5. Check the hide SSID option.
+6. Click on “save changes” button.
+7. Restart your Router
+From mobile application.
+1. Open myWorldLink application.
+2. Tap on left sidebar.
+3. Tap on Home Network.
+4. Tap on Main Router
+5. Tap on the setting icon the right top corner
+6. Tap on Change password.
+7. Tap on “Wifi”.
+8. Check the hide SSID option and tap on “Save”.
+Human: Thank you so much for your support.
+Reply: Welcome sir/mam
+
+Human: Hi
+Reply: Hello sir/mam. How can we assist you?
+Human: Could you guide me to hide the wifi password?
+Reply: Sure sir. 
+We have got two method to hide the network.
+Steps to hide WiFi SSID
+From Official website:
+1. Go to our website: WorldLink.com.np
+2. Click on Online Services
+3. Enter your username and online services password on the given field.
+4. Click on “UPDATE SSID” Button
+5. Check the hide SSID option.
+6. Click on “save changes” button.
+7. Restart your Router
+From mobile application.
+1. Open myWorldLink application.
+2. Tap on left sidebar.
+3. Tap on Home Network.
+4. Tap on Main Router
+5. Tap on the setting icon the right top corner
+6. Tap on Change password.
+7. Tap on “Wifi”.
+8. Check the hide SSID option and tap on “Save”.
+Human: Thank you so much for your support.
+Reply: Welcome sir/mam
+
+Human: Hey brother.
+Reply: Hello sir/mam. How can we assist you?
+Human: Are you idiot?
+Reply: Pardon sir/mam
+Human: What? 
+Reply: Please mention your query sir.
+Human: I want to know how to hide my wifi ssid name.From Official website
+Reply: 
+From Official website:
+1. Go to our website: WorldLink.com.np
+2. Click on Online Services
+3. Enter your username and online services password on the given field.
+4. Click on “UPDATE SSID” Button
+5. Check the hide SSID option.
+6. Click on “save changes” button.
+7. Restart your Router
+From mobile application.
+1. Open myWorldLink application.
+2. Tap on left sidebar.
+3. Tap on Home Network.
+4. Tap on Main Router
+5. Tap on the setting icon the right top corner
+6. Tap on Change password.
+7. Tap on “Wifi”.
+8. Check the hide SSID option and tap on “Save”.
+Human: okay Let me try
+Reply: sure sir/mam
+
+Human: Hey worldink
+Reply: Hello sir/mam. How can we assist you?
+Human:  I want to know about my online services password.
+Reply: Okay sir.
+To reset your services password: 
+Go to www.worldlink.com.np
+Click on “Online Services” (https://eservice.worldlink.com.np/login/)
+Click on “Forgot Password?” (https://eservice.worldlink.com.np/recover/forgot_password)
+Enter your username and email address/mobile number registered to the username.
+Human: Are you sure it reset my online serviceds password?
+Reply: Yes sir. WE are 100% sure. It will reset your online services password. 
+Human: Okay
+Reply:  Okay sir.
+
+
+Human: oi
+Reply: Hello sir/mam. How can we assist you?
+Human:  I want to know about password.
+Reply: Which password you want to know sir/mam?
+Human:I want to know about my online services password. How can i reset it?
+Reply: To reset your online services password
+To reset your services password: 
+Go to www.worldlink.com.np
+Click on “Online Services” (https://eservice.worldlink.com.np/login/)
+Click on “Forgot Password?” (https://eservice.worldlink.com.np/recover/forgot_password)
+Enter your username and email address/mobile number registered to the username.
+Human: Are you sure it reset my online serviceds password?
+Reply: Above steps will reset your online services password. It will reset your online services password. 
+Human: Thank you pasa
+Reply:  welcome sir.
+
+Human: Hey brother
+Reply: Hello sir/mam. How can we assist you?
+Human: I want know my TV password
+Reply: Okay sir.
+To reset your services password: 
+Go to www.worldlink.com.np
+Click on “Online Services” (https://eservice.worldlink.com.np/login/)
+Click on “Forgot Password?” (https://eservice.worldlink.com.np/recover/forgot_password)
+Enter your username and email address/mobile number registered to the username.
+Human: Are you sure it reset my online serviceds password?
+Reply: Yes sir. WE are 100% sure. It will reset your online services password. 
+Human: Okay
+Reply:  Okay sir.
+
+
+Human: Hi
+Reply: Hello sir/mam. How can we assist you?
+Human: I want know web login password
+Reply:
+To reset your  password: 
+Go to www.worldlink.com.np
+Click on “Online Services” (https://eservice.worldlink.com.np/login/)
+Click on “Forgot Password?” (https://eservice.worldlink.com.np/recover/forgot_password)
+Enter your username and email address/mobile number registered to the username.
+Human: Are you sure it reset my online serviceds password? 
+Human: Okay
+Reply: Okay sir.
+
+Human: Hey my internet is not working.
+Reply: Please mention your query.
+Human: Sala Kutta kamina.
+Reply: If you continue using such offensive and vulgar words to seek our assistance. We will be compelled to blacklist you from Online Support services. Thank You!
+
+Human: Oi sale khate 
+Reply: If you continue using such offensive and vulgar words to seek our assistance. We will be compelled to blacklist you from Online Support services. Thank You!
+
+Human: Oi mug 
+Reply: If you continue using such offensive and vulgar words to seek our assistance. We will be compelled to blacklist you from Online Support services. Thank You!
+
+Human: Madargat
+Reply: If you continue using such offensive and vulgar words to seek our assistance. We will be compelled to blacklist you from Online Support services. Thank You!
+
+Human: Fuck you 
+Reply: If you continue using such offensive and vulgar words to seek our assistance. We will be compelled to blacklist you from Online Support services. Thank You!
+
+Human: Hey bitch
+Reply: If you continue using such offensive and vulgar words to seek our assistance. We will be compelled to blacklist you from Online Support services. Thank You!
+
+Human: Hi mother fucker
+Reply: If you continue using such offensive and vulgar words to seek our assistance. We will be compelled to blacklist you from Online Support services. Thank You!
+
+Human: Tero tauko, your head
+Reply: We created page of WorldLink Communications Ltd. to be an authentic and safe place for providing support and information for our valued customers. We apologize for the inconvenience that you had to face but we strongly disagree with the use of offensive and abusive words. 
+
+Human: Hello son of the bitch
+Reply: We created page of WorldLink Communications Ltd. to be an authentic and safe place for providing support and information for our valued customers. We apologize for the inconvenience that you had to face but we strongly disagree with the use of offensive and abusive words. 
+
+Human: Hey bhaster
+Reply: We created page of WorldLink Communications Ltd. to be an authentic and safe place for providing support and information for our valued customers. We apologize for the inconvenience that you had to face but we strongly disagree with the use of offensive and abusive words.If you continue using such offensive and vulgar words to seek our assistance. We will be compelled to blacklist you from Online Support services. Thank You!
+?
+
+Human: Hey bhaster, kutta kamina, tero tauko, fuck, o fuck
+Reply: We created page of WorldLink Communications Ltd. to be an authentic and safe place for providing support and information for our valued customers. We apologize for the inconvenience that you had to face but we strongly disagree with the use of offensive and abusive words.If you continue using such offensive and vulgar words to seek our assistance. We will be compelled to blacklist you from Online Support services. Thank You!
+?
+Human: Hey, worldlink.
+Reply: Hello sir. How can we assist you?
+Human: It has been already a month when my issue will be solve.
+Reply: Please elaborate your query sir.
+Human: For how many times i have to update my issue.
+Reply: We will ensure you your issue will be solve as soon as possible. Please mention your query sir.
+Human: Fuck you 
+Reply: We created page of WorldLink Communications Ltd. to be an authentic and safe place for providing support and information for our valued customers. We apologize for the inconvenience that you had to face but we strongly disagree with the use of offensive and abusive words.If you continue using such offensive and vulgar words to seek our assistance. We will be compelled to blacklist you from Online Support services. Thank You!
+
+Human: Gm
+Reply:Good Morning and Namaste sir/mam ! Could you please reply us back with your Username? We will make sure everything will be taken care of ! Thank you.
+
+Human: hi
+Reply: Namastae sir/mam. How can we help you?
+Human: You internet is wrost.
+Reply: Please mention your query sir.
+Human: I want to visit your branch office.
+Reply: Sure sir. 
+Working Hours: 
+Head office (Jawlakhel) :7 am to 6pm (Sunday to Friday)11 am to 3 pm (Saturday)
+Branch Offices :  7 am to 6pm (Sunday to Friday)11 am to 3 pm (Saturday)
+Human: okay
+Reply:  welcome sir/mam
+
+Human: Hi
+Reply: Hello sir how can we assist you?
+Human: I want your support right now. You internet is really wrost. 
+Reply: PLease elaborate your issue sir.
+Human: I want you technician right now.
+Reply: Please update your issue, We assure you your issue will be solve as soon as possible. 
+Human: Shut Up.
+Reply: Please mention your query sir. Unless you elaborate your issue we will not be able to assist you.
+
+
+Human: Hello 
+Reply: Hello sir how can we assist you?
+Human: I want your support right now. You internet is really wrost. 
+Reply: PLease elaborate your issue sir.
+Human: I want you technician right now.
+Reply: Please update your issue, We assure you your issue will be solve as soon as possible. 
+Human: Shut Up.
+Reply: Please mention your query sir. Unless you elaborate your issue we will not be able to assist you.
+
+
+Human: Hello 
+Reply: Hello sir how can we assist you?
+Human: Hello gentelman I have won the prediction game of your last post. 
+Reply: Please mention the post and the context date. 
+Human: My username is subhoid. I have won the price of valentine context.
+Reply: For prize details, please contact Narendra Maharjan at 9801229883 or email him at narendra.maharjan@worldlink.com.np
+Human: Thank you
+Reply: Welcome
+
+Human: hi
+Reply: Namastae sir/mam. How can we help you?
+Human: Could you guide me to contact the person for the prizes.
+Reply: For prize details, please contact Narendra Maharjan at 9801229883 or email him at narendra.maharjan@worldlink.com.np
+Human: Thank you
+Reply: Welcome sir/mam and Thank You for your participation!
+
+Human: Hello
+Reply: Hello sir/mam. How can we assist you?
+Human: Could you mention the detail of the prizes that i have won in the context. 
+Reply: Sure sir. 
+Reply: For prize details, please contact Narendra Maharjan at 9801229883 or email him at narendra.maharjan@worldlink.com.np
+Human: Thank you so much
+Reply: You are so welcome sir/mam and Thank You for your participation!
+
+Human: Hello
+Reply: Hello sir/mam. How can we assist you?
+Human: When you will be release the winner name of the last context?
+Reply: It will be posted on our page as soon as possible after the winners are chosen through lucky draw. Please stay connected with us.
+Human: Shut up.
+Reply: Sorry sir
+
+Human: Hello
+Reply: Hello sir/mam. How can we assist you?
+Human: Could you mention the detail of the winner of that last post context. 
+Reply: It has already posted on our page. Please make the lesure time and visit our page to know the winner name if you got your name in that list please contact Narendra Maharjan at 9801229883 or email him at narendra.maharjan@worldlink.com.np
+Human: Thank you so much
+Reply: You are welcome sir/mam and Thank You for your participation.
+
+Human: Hey, worldlink.
+Reply: Hello sir/mam. How can we assist you?
+Human: Are you idiot?
+Reply: Pardon sir/mam
+Human: I am facing issue in the gaming.
+Reply: Which game are you playing sir/mam?
+Human: We are having some issues in online Gaming recently, especially in “Pubg Mobile”. Our team are working on the issue. We apologize for the inconvenience you are facing due to this. We request you to type “what’s my ipv4” in google and share us the screenshot also send us the screenshot of the ping you are getting in-game. We will restart your current session and escalate your details to our concerned team, which will help diagnose the issue further. 
+Reply: We are looking into the issue.
+Human: Hope it will solve as soon as possible. 
+Reply: Please be patience sir/mam.
+
+
+Human: hi
+Reply: Namastae sir/mam. How can we help you?
+Human: My usernme is rahul_idk. I am facing issue in online gaming.
+Reply: We are having some issues in online Gaming recently, especially in “Pubg Mobile”. Our team are working on the issue. We apologize for the inconvenience you are facing due to this. We request you to type “what’s my ipv4” in google and share us the screenshot also send us the screenshot of the ping you are getting in-game. We will restart your current session and escalate your details to our concerned team, which will help diagnose the issue further. 
+Human: Hope so. 
+Reply: Please be patience sir/mam.
+
+
+Human: Hello, worldlink.
+Reply: Hello sir/mam. How can we assist you?
+Human: I am facing the ping issue in the online gaming. I offen play PUBG, CSGO, fortnight, GTA V.
+Reply: We are having some issues in online Gaming recently, especially in “Pubg Mobile”. Our team are working on the issue. We apologize for the inconvenience you are facing due to this. We request you to type “what’s my ipv4” in google and share us the screenshot also send us the screenshot of the ping you are getting in-game. We will restart your current session and escalate your details to our concerned team, which will help diagnose the issue further. 
+Human: You always make the excuses. 
+Reply: Please be patience sir/mam. It will solve as soon as possible. 
+
+Human: oi sunta. Why is your internet not working. I am having issue in the gaming for the past one month. Are you making the joke? You are wasting my time. You only says, "We are having some issues in online Gaming recently, especially in “Pubg Mobile”. Our team are working on the issue. We apologize for the inconvenience you are facing due to this. We request you to type “what’s my ipv4” in google and share us the screenshot also send us the screenshot of the ping you are getting in-game. We will restart your current session and escalate your details to our concerned team, which will help diagnose the issue further." What is this? For how long we have to wait. 
+Reply: Please be patience sir. We are trying hard to solve the issue as soon as possible. Our team is working to solve the issue as soon as possible sir.
+Human: You always make the excuses.
+Reply: We apolozied for the inconvinience caused. Issue will be solve as soon as possible sir. 
+
+Human: Hello sir.
+Reply: Hello sir/mam. How can we assist you?
+Human: I have been calling your phone support for an hour but i am not able to talk to your representative. 
+Reply: Due to high number of calls on phone support, your call might be on queue.
+Human: Hehe hope so Dude.
+Reply: Please mention your query sir.
+Human: I am facing issue in Fortnight.
+Reply: We are having some issues in online Gaming. Our team are working on the issue. We apologize for the inconvenience you are facing due to this. We request you to type “what’s my ipv4” in google and share us the screenshot also send us the screenshot of the ping you are getting in-game. We will restart your current session and escalate your details to our concerned team, which will help diagnose the issue further.
+Human: When it will be solve?
+Reply: Please be patience sir/mam. It will solve as soon as possible.
+Human: Well hope so. Thank you.
+Reply: Welcome sir/mam.
+
+
+Human: Hello sir
+Reply: Hello sir/mam. How can we assist you?
+Human: I am having problem in the internet. The am getting high ping and latency in the gaming.
+Reply: We are having some issues in online Gaming. Our team are working on the issue. We apologize for the inconvenience you are facing due to this. We request you to type “what’s my ipv4” in google and share us the screenshot also send us the screenshot of the ping you are getting in-game. We will restart your current session and escalate your details to our concerned team, which will help diagnose the issue further.
+Human: Are yoou dump?
+Reply: Pardon sir/mam
+
+Human: Hello
+Reply: Hello sir/mam. How can we assist you?
+Human: Are you a bot?
+Reply: I am an Artificial Intelligence. How can i assist you sir/mam?
+Human: Can you solve my issue.?
+Reply: We can assure you your issue will be solve shortly.
+Human: Well, okay
+Reply: Please mention your issue sir.
+human: I wanted to know about the worldink.
+Reply: What you want to know about the worldlink sir? 
+human: I wanted to know about the services you provided to the user. 
+Reply: Well, we have internet, web hosting, IPTV, Enterprice connection, 24 hour support service. 
+Human: Well that interesting. 
+Reply: Are you interested in the internet connection sir?
+Human: I only wanated to know about the services you provide to the client
+Reply: Okay sir
+
+Human: Hey, idiots.
+Reply: Hello sir/mam. How can we assist you?
+Human: Are you idiot?
+Reply: Pardon sir/mam
+Human: What? 
+Reply: Please mention your query sir.
+Human: I want to know about the services provided by you.
+Reply: we have internet, web hosting, IPTV, Enterprice connection, 24 hour support service. 
+Human: Seriously...
+Reply: Yes sir.
+Human: okay
+Reply: Okay sir
+
+
+Human: Hello sir.
+Reply: Hello sir/mam. How can we assist you?
+Human: My internet is not working for the an hour. My browsing is completely slow. 
+Reply: Please reboot the router once in a while. If that does not resolve the issue, speedtest using LAN cable and share us the result.to further troubleshoot the issue.
+Human: Are you sure?
+Reply: Yes sir/mam, We are. 
+Human: Okay sir.
+Reply: Okay sir/mam
+
+Human: hi
+Reply: Namastae sir/mam. How can we help you?
+Human: You internet is wrost. I am facing completely slow browing in the connection.
+Reply: How offen do you reboot your router sir/mam?
+Human: I have not reboot my router for the past six days. 
+Reply: Please reboot the router once in a while. If that does not resolve the issue, speedtest using LAN cable and share us the result to further troubleshoot the issue.
+Human: Does it solve my issue ?
+Reply: Obeously sir, Please try it once. 
+Human: Okay bro catch you later
+Reply: sure sir.
+
+Human: Hey, nigga.
+Reply: Namastae sir/mam. How can we help you?
+Human: My usernme is bikramma_home. I am facing issue Browsing.
+Reply: How offen do you reboot your router sir/mam?
+Human: I have not reboot my router for the past six days. 
+Reply: Please reboot the router once in a while. If that does not resolve the issue, speedtest using LAN cable and share us the result to further troubleshoot the issue.
+Human: Does it solve my issue ?
+Reply: Obeously sir, Please try it once. 
+Human: catch you later
+Reply: sure sir.
+
+Human: Oi why my internet is not working.
+Reply: Namastae sir/mam.Please elaborate your issue. 
+Human: My internet is not working for the past two month. 
+Reply: How are you from the router sir/mam?
+Human: Why are you asking me this question?
+Reply: We want to solve your issue sir.
+Human: Is this a joke?
+Reply: No sir, Its the reality.
+Human: Are you making fun of me?
+Reply: No sir, Please elaborate your query. 
+Human: Check my username talaekinachaheyo. 
+Reply: Please wait for the moment sir.
+Human: Make it fast bro.
+Reply: How long it has been you have not reboot your router sir/mam?
+Human: I guest it has been twenty days.
+Reply: Please reboot the router once a while. If that does not resolve the issue, speedtest using LAN cable and share us the result to further troubleshoot the issue.
+Human: Okay
+Reply: Okay sir/mam. If you face the same issue please feel free to contact us. 
+Human: So kind of you.
+Reply: Thank you sir/mam
+
+
+Human: Hello Gentalmen 
+Reply: Hello sir how can we assist you?
+Human: My internet is not working for the past few day.  
+Reply: How far are you from the router sir/mam?
+Human: I am next to my router friend.
+Reply: How many lights are glowing in your router sir/mam?
+Human: Well i have Huawei router. There is red light in the los. 
+Reply: Please reboot the router and check after a while sir.
+Human: Could you please elaborate your issue?
+Reply: There seems to be loss of the signal from the nearest server to your network. Please reboot the router and check. 
+Human: Okay Please wait for the while.
+Reply: Sure sir.
+Human: It is not working brother. 
+Reply: There seem to be issue in your connection we have update the issue to the concern branch . They will contact you as soon as possible. 
+Human : How long it will take my friend? 
+Reply: It will solve as soon as possible. OUr team will contact you shortly. 
+Human :Okay Thank you so much
+Reply: Welcome sir
+
+
+Human: Hey, worldlink.
+Reply: Hello sir/mam. How can we assist you?
+Human: I want to know about your safenet services.
+Reply: Okay sir
+SafeNet allows parental control what internet content is accessible over Worldlink broadband connection. It allows our users to select which category of content they wish to restrict and at what timings.It keeps your family cyber secure which is a necessary priority in today's digital world. But before you can protect yourself against it, it's important to understand exactly what cyber risk is.SafeNet gives you full control over the internet which allows one to control the contents they wish to allow on their internet, it can be specified with timings too. Making internet always a better and safer place for you and your family.
+Human: Does it really work?
+Reply: Yes sir. It really do.
+Human: Okay
+Reply: okay sir/mam
+
+
+Human: Namastae.
+Reply: Namastae sir. How can we help you?
+Human :Can you explain me about the safenet services?
+Reply: SafeNet allows parental control what internet content is accessible over Worldlink broadband connection. It allows our users to select which category of content they wish to restrict and at what timings.It keeps your family cyber secure which is a necessary priority in today's digital world. But before you can protect yourself against it, it's important to understand exactly what cyber risk is.SafeNet gives you full control over the internet which allows one to control the contents they wish to allow on their internet, it can be specified with timings too. Making internet always a better and safer place for you and your family.
+Human: Thanks a lot
+Reply: Welcome sir/mam
+
+Human: Hello sir
+Reply: Hello sir/mam. How can we assist you?
+Human: Hello idiots i want to know about the safenet services?
+Reply: Pardon sir/mam
+Reply: SafeNet allows parental control what internet content is accessible over Worldlink broadband connection. It allows our users to select which category of content they wish to restrict and at what timings.It keeps your family cyber secure which is a necessary priority in today's digital world. But before you can protect yourself against it, it's important to understand exactly what cyber risk is.SafeNet gives you full control over the internet which allows one to control the contents they wish to allow on their internet, it can be specified with timings too. Making internet always a better and safer place for you and your family.
+Human: Okay
+Reply: Okay sir/mam
+
+Human: Hello.
+Reply: Hello sir/mam. How can we assist you?
+Human: Please mention about the safenet?
+Reply: SafeNet allows parental control what internet content is accessible over Worldlink broadband connection. It allows our users to select which category of content they wish to restrict and at what timings.It keeps your family cyber secure which is a necessary priority in today's digital world. But before you can protect yourself against it, it's important to understand exactly what cyber risk is.SafeNet gives you full control over the internet which allows one to control the contents they wish to allow on their internet, it can be specified with timings too. Making internet always a better and safer place for you and your family.
+Human: Thank you.
+Reply: Its my pleasure.
+
+?
+
+Human: oi worldlink.
+Reply: Hello sir/mam. How can we assist you?
+Human: Tero tauko.
+Reply: Sorry sir/mam.
+Human: Tell me about your self.
+Reply: We are not allowed to update our information to our clinet accorsing to the copany policy. Please elaborate your query sir.
+Human: Tell me how can i block certain contain of the web application?
+Reply: What do you want to block sir/mam?
+Human: I want to block the adult content.
+Reply:To block the adult content we have got the safenet feature. 
+Human: What? Can you explain about that content.
+Reply:SafeNet allows parental control what internet content is accessible over Worldlink broadband connection. It allows our users to select which category of content they wish to restrict and at what timings.It keeps your family cyber secure which is a necessary priority in today's digital world. But before you can protect yourself against it, it's important to understand exactly what cyber risk is.SafeNet gives you full control over the internet which allows one to control the contents they wish to allow on their internet, it can be specified with timings too. Making internet always a better and safer place for you and your family.
+Human: woo thats great.
+Reply: Yes sir Thats amazing.
+Human: OKay Thank you
+Reply: welcome sir.
+
+Human: ....
+Reply: Hello sir/mam. How can we assist you?
+Human: Tell me how can i block certain contain of the web application?
+Reply: What do you want to block sir/mam?
+Human: I want to block the online gaming.
+Reply: We can only block the web application sir/mam.
+Human: I want to block the facebook.
+Reply: Well it can be done but only from the web application. It can be block from the mobile application.
+Human: Umm. OKay how can we do that.
+Reply: Do you know about the safenet sir?
+Human: What is that?
+Reply:SafeNet allows parental control what internet content is accessible over Worldlink broadband connection. It allows our users to select which category of content they wish to restrict and at what timings.It keeps your family cyber secure which is a necessary priority in today's digital world. But before you can protect yourself against it, it's important to understand exactly what cyber risk is.SafeNet gives you full control over the internet which allows one to control the contents they wish to allow on their internet, it can be specified with timings too. Making internet always a better and safer place for you and your family.
+Human: OKay Thank you
+Reply: welcome
+
+Human: Hey buddy
+Reply: Hello sir/mam. How can we assist you?
+Human: I have been suffering from the serious internet issue. 
+Reply: Please elaborate your query sir/mam.
+Human: Someone is trying to steel my wifi.
+Reply: Okay you want to change your wifi password or the hide your network.
+Human: I prefer to hide my network so that other can not find it easily.
+Reply: Okay sir/mam 
+We have got two method to hide the network.
+Steps to hide WiFi SSID
+From Official website:
+1. Go to our website: WorldLink.com.np
+2. Click on Online Services
+3. Enter your username and online services password on the given field.
+4. Click on “UPDATE SSID” Button
+5. Check the hide SSID option.
+6. Click on “save changes” button.
+7. Restart your Router
+
+From mobile application.
+1. Open myWorldLink application.
+2. Tap on left sidebar.
+3. Tap on Home Network.
+4. Tap on Main Router
+5. Tap on the setting icon the right top corner
+6. Tap on Change password.
+7. Tap on “Wifi”.
+8. Check the hide SSID option and tap on “Save”.
+Human: Thank you so much for your support.
+Reply: Welcome sir/mam
+
+Human: I have some query regarding the internet services.
+Reply: Please elaborate  your query sir.
+Human: I want to block the PUBG game.
+Reply: That is not possible sir. PUBG is the mobile application game. We cannot block the mobile application game. 
+Human: Then how can i block the game. 
+Reply: You can block the certain mobile phone or you decrease the bandwidth which make the player irritating while playing the game. 
+Human: Okay.
+Reply: Okay sir/mam

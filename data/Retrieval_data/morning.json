@@ -1,0 +1,1 @@
+{"intents": [{"tag": "goodmorning", "patterns": ["gud morning.", "morning.", "mrg"], "responses": ["morning sir/mam. how can we assis you?", "good morning sir/mam. how can we assis you?"], "context_set": ""}]}

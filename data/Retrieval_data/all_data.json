@@ -1,0 +1,592 @@
+{
+   "intents": 
+   [      
+      {
+         "tag": "changepasswordfrommobile",
+         "patterns": 
+         [
+            "i want to hide my wifi ssid bro.",
+            "could you guide me to hide the wifi password?"
+         ],
+         "responses": 
+         [
+            "okay sir/mam we have got two method to hide the network.\tsteps to hide wifi ssid\tfrom official website\t1. go to our website worldlink.com.np\t2. click on online services\t3. enter your username and online services password on the given field.\t4. click on “update ssid” button\t5. check the hide ssid option.\t6. click on “save changes” button.\t7. restart your router\tfrom mobile application.1. open myworldlink application.\t2. tap on left sidebar.\t3. tap on home network.\t4. tap on main router\t5. tap on the setting icon the right top corner\t6. tap on change password.\t7. tap on “wifi”.\t8. check the hide ssid option and tap on “save”."
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "thankyou",
+         "patterns": 
+         [
+            "thank you for the coorporation.",
+            "okay",
+            "you really suprise me.",
+            "you are such an insanse.",
+            "🤣️🤣️🤣️🤣️",
+            "thank you for your coorporation and guidance.",
+            "ummm",
+            "well its working",
+            "okay let me check",
+            "thank you brother",
+            "thank you",
+            "thank you so much for your support.",
+            "okay thank you so much",
+            "okay",
+            "okay bro catch you later",
+            "well done"
+         ],
+         "responses": 
+         [
+            "welcome sir.",
+            "okay sir/mam",
+            "okay",
+            "sorry.",
+            "pardon sir.",
+            "welcome sir.",
+            "okay sir/mam",
+            "okay sir",
+            "sure sir",
+            "welcome brother",
+            "welcome sir/mam",
+            "welcome sir/mam",
+            "welcome sir",
+            "okay sir/mam. if you face the same issue please feel free to contact us.",
+            "sure sir."
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "slowconnection",
+         "patterns": 
+         [
+            "my internet is not working well for a past few days.",
+            "i am facing the internet problem from past one month.",
+            "oi sunta. why is your internet not working. i am having issue in the gaming for the past one month. are you making the joke? you are wasting my time. you only says, \"we are having some issues in online gaming recently, especially in “pubg mobile”. our team are working on the issue. we apologize for the inconvenience you are facing due to this. we request you to type “what’s my ipv4” in google and share us the screenshot also send us the screenshot of the ping you are getting in-game. we will restart your current session and escalate your details to our concerned team, which will help diagnose the issue further.\" what is this? for how long we have to wait.",
+            "my internet is not working for the an hour. my browsing is completely slow.",
+            "you internet is wrost. i am facing completely slow browing in the connection.",
+            "i am facing issue browsing.",
+            "oi why my internet is not working.",
+            "my internet is not working for the past few day.",
+            "worldlink, i am facing slow internet connection.",
+            "the downloaing speed is good in that concern website.",
+            "i check the speed of my connection from the different speedtest and it shows the full speed  but while i ma downloading the content from the web site. it is downloading in 23 kb/s.",
+            "i am facing slow internet connection.",
+            "please refresh my connection.",
+            "i am facing slow internet connection.",
+            "i am near to my router.",
+            "i have been suffering from the serious internet issue.",
+            "i have been suffering from the serious internet issue.",
+            "i am next to my router friend."
+         ],
+         "responses": 
+         [
+            "please mention your username and the number sir/mam.",
+            "please elaborate your issue sir.",
+            "please be patience sir. we are trying hard to solve the issue as soon as possible. our team is working to solve the issue as soon as possible sir.",
+            "please reboot the router once in a while. if that does not resolve the issue, speedtest using lan cable and share us the result.to further troubleshoot the issue.",
+            "how offen do you reboot your router sir/mam?",
+            "how offen do you reboot your router sir/mam?",
+            "namastae sir/mam.please elaborate your issue.",
+            "how long it has been you have not reboot your router sir/mam?",
+            "please elaborate your query sir.",
+            "sir/mam the download speed also matter from the server.if the server has limit the speed. we can't do anything. as you have already tested the speed as well as the download speed of the other site too. there is no issue from the isp site.",
+            "please reboot your router and check.",
+            "how far are you from the router?",
+            "we have reconfigured your router.could you please check the internet speed through www.speedtest.net using ethernet cable in your pc or laptop and share the screenshot of  speed test result with us. it would be helpful for us to further diagnosis the issue.",
+            "how far are you from the router?",
+            "all the settings  in your connection seems perfectly normal. sir, could you please check your download/upload bandwidth from www.speedtest.net?",
+            "please elaborate your query sir/mam.",
+            "please elaborate your query sir/mam."
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "secondaryrouter",
+         "patterns": 
+         [
+            "i want to extend my connection.",
+            "i want to add the secondary router sir.",
+            "yes sir i do.",
+            "hey i want to extend my connection so that it can also be work in the fifth floor.i do have the secondary router of the tplink.",
+            "i want to use the internet in another floor how can i do that?"
+         ],
+         "responses": 
+         [
+            "please elaborate your query sir.",
+            "do you have the secondary router?",
+            "1. connect your secondary router to your pc with the help of lan cable. 2. access your secondary router with the default gateway ip address of your router.\t3. login with the default username and password for the router.\t4. go to wireless settings to set up your wifi ssid and password.\t5. go to network settings and make the dhcp disable.\t6.  reboot  your  router  to  save  the  changes.\t7. connect your secondary router's lan port to the lan port 1 of the primary router(i.e, onu device) with the help of lan cable. if you are still not able to configure your router, please visit our nearest branch office along with your secondary router and its power adapter.",
+            "1. connect your secondary router to your pc with the help of lan cable. 2. access your secondary router with the default gateway ip address of your router.\t3. login with the default username and password for the router.\t4. go to wireless settings to set up your wifi ssid and password.\t5. go to network settings and make the dhcp disable.\t6.  reboot  your  router  to  save  the  changes.\t7. connect your secondary router's lan port to the lan port 1 of the primary router(i.e, onu device) with the help of lan cable. if you are still not able to configure your router, please visit our nearest branch office along with your secondary router and its power adapter."
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "safenet",
+         "patterns": 
+         [
+            "i want to block the pubg game.",
+            "then how can i block the game.",
+            "can you explain me about the safenet services?",
+            "hello idiots i want to know about the safenet services?",
+            "tell me how can i block certain contain of the web application?",
+            "i want to block the online gaming.",
+            "i want to block the facebook.",
+            "umm. okay how can we do that.",
+            "what is that?",
+            "i want to know about the safenet feature. my son watch porn video all day.",
+            "woo that great. could you please elaborate about this feture.",
+            "how can i activate this feature in my account?",
+            "can't it be usefull in mobile application/app.",
+            "okay how can i use this feature. can i activate myself?",
+            "i do son.",
+            "hey i want to know about your feature that has been release.",
+            "you have only this feature?",
+            "well, i also wanted to know about the free hotspot feature.",
+            "okay how can i get my online services password?"
+         ],
+         "responses": 
+         [
+            "that is not possible sir. pubg is the mobile application game. we cannot block the mobile application game.",
+            "you can block the certain mobile phone or you decrease the bandwidth which make the player irritating while playing the game.",
+            "safenet allows parental control what internet content is accessible over worldlink broadband connection. it allows our users to select which category of content they wish to restrict and at what timings.it keeps your family cyber secure which is a necessary priority in today's digital world. but before you can protect yourself against it, it's important to understand exactly what cyber risk is.safenet gives you full control over the internet which allows one to control the contents they wish to allow on their internet, it can be specified with timings too. making internet always a better and safer place for you and your family.",
+            "pardon sir/mam  safenet allows parental control what internet content is accessible over worldlink broadband connection. it allows our users to select which category of content they wish to restrict and at what timings.it keeps your family cyber secure which is a necessary priority in today's digital world. but before you can protect yourself against it, it's important to understand exactly what cyber risk is.safenet gives you full control over the internet which allows one to control the contents they wish to allow on their internet, it can be specified with timings too. making internet always a better and safer place for you and your family.",
+            "what do you want to block sir/mam?",
+            "we can only block the web application sir/mam.",
+            "well it can be done but only from the web application. it can be block from the mobile application.",
+            "do you know about the safenet sir?",
+            "safenet allows parental control what internet content is accessible over worldlink broadband connection. it allows our users to select which category of content they wish to restrict and at what timings.it keeps your family cyber secure which is a necessary priority in today's digital world. but before you can protect yourself against it, it's important to understand exactly what cyber risk is.safenet gives you full control over the internet which allows one to control the contents they wish to allow on their internet, it can be specified with timings too. making internet always a better and safer place for you and your family.",
+            "well, considering this situation wordlink has introduce safenet feature.",
+            "sure sir/mam safenet keeping a family cyber secure is the primary need of today's smart family. safenet feature provides you facilities like ad blocking, child safety, virus protection, web filtering and time management. this will help the internet a safer place for your kids and help them get the best out of it.",
+            "this feature helps to block certain contain and the web application/app.",
+            "it can only be feasiable in the web app.",
+            "do you use worldink mobile app?",
+            "you can visit www.youtube.com/watch?v=sqw7lwjdfc0 to know about the safenet feature and how it work.",
+            "new internet standard(features) our new internet standard is more than just an internet package. with our new packages we tend to create more options for our growing customer demographic which will enhance our internet experience. time back we, at worldlink, always strive to provide uninterrupted internet service and value your investment. however, incase of unavoidable circumstances, we bring you the service to makeup for loss caused by internet outages or regular maintenance. we will compensate if your issues are not responded within 24 hours. managed wifi we have come up with a feature that gives you access to the list of devices connected to your router and total bandwidth usage. furthermore, with just a small upgrade, you can get dual band router for better internet experience. discount app\tfor every rupee not spent is a rupee saved. we have introduced a discount app feature to benefit our customers. we provide privilege discounts and deals at 750+ outlets ranging from restaurants, retail stores, fitness centers, and many more. in order to claim the discount, the users will need to show their active go app to the respective merchants before the bill is printed. play.google.com/store/apps/details?id=np.com.worldlink.worldlinkgoapp. godiscount.com.np/client_register nettv\tupgrade your tv package for more channels of you choice. you can now opt for entertainment prime and sports prime packages for more of entertainment and sports channel on demand. also, you can go for all prime packages too, to get the overall tv experience. safenet keeping a family cyber secure is the primary need of today's smart family. safenet feature provides you facilities like ad blocking, child safety, virus protection, web filtering and time management. this will help the internet a safer place for your kids and help them get the best out of it.",
+            "this the latest feature we have got sir/mam. we have also lots of other feature.",
+            "this feature helps you to joint the free wifi without geting the time limit. if you are the worldlink user with the help of the worldink username and the online services password you can connect to the wifi and use it unlimited."
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "portforward",
+         "patterns": 
+         [
+            "i am developer and i want to forward my port for the educational purpose. can you give me the access to it?",
+            "that not fair. we have pay the amount you have declare.",
+            "is there any way to access the router?",
+            "i want to access my router.",
+            "i want to access my router to change the wifi password."
+         ],
+         "responses": 
+         [
+            "we regret to inform you that our ftth customers won’t be able to access the ftth router because of the rental/security policy of worldlink.",
+            "we have provided the router in rental. due to security purpose, you are not able to access the router page.",
+            "no sir/mam there is none of the way.",
+            "we appreciate your query and glad that you brought it forward. the access to ont devices from client's end was restricted due to security issues and rental policy of the company. there were multiple cases where unknown people created multiple ssid and misused volume and bandwidth at client's end resulting slow and intermittent connection. however, the sweet part is that you can use our mobile app \"myworldlink\" to change your wi-fi password, keep an eye on your dhcp list, account history, eservice and all. we also would like to inform you that there are features like mac filtering and reboot options available in mob app itself."
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "onlineservices",
+         "patterns": 
+         [
+            "i want to know about my online services password.",
+            "are you sure it reset my online serviceds password?",
+            "i want to know about my online services password. how can i reset it?",
+            "are you sure it reset my online serviceds password?",
+            "i want know my tv password",
+            "are you sure it reset my online serviceds password?",
+            "i am facing issue of photo upload from the mobile application.",
+            "yes",
+            "today i notice that my document is not upload in the server. how can i upload it?",
+            "yes sir",
+            "i am your customer and i want to watch the tv channel in the mobile app/application.",
+            "woo thats greats.",
+            "how can i utilized that services?",
+            "if you don't mind can you teach me to watch the nettv from the web."
+         ],
+         "responses": 
+         [
+            "okay sir. to reset your services password  go to www.worldlink.com.np click on “online services” (eservice.worldlink.com.np/login/) click on “forgot password?” (eservice.worldlink.com.np/recover/forgot_password) enter your username and email address/mobile number registered to the username.",
+            "yes sir. we are 100% sure. it will reset your online services password.",
+            "to reset your online services password to reset your services password go to www.worldlink.com.np click on “online services” (eservice.worldlink.com.np/login/) click on “forgot password?” (eservice.worldlink.com.np/recover/forgot_password) enter your username and email address/mobile number registered to the username.",
+            "above steps will reset your online services password. it will reset your online services password.",
+            "okay sir. to reset your services password go to www.worldlink.com.np click on “online services” (eservice.worldlink.com.np/login/) click on “forgot password?” (eservice.worldlink.com.np/recover/forgot_password) enter your username and email address/mobile number registered to the username.",
+            "you want to upload your document to the server from the web application.",
+            "steps for uploading document 1. click on online service. 2. enter your username and password. 3. click on \"update contact details\". 4. click on \"browse\" to upload document (max size is 512kb). 5. click on \"update\"",
+            "well do you use worldlink mobile application.",
+            "steps for uploading document 1. click on online service. 2. enter your username and password. 3. click on \"update contact details\". 4. click on \"browse\" to upload document (max size is 512kb). 5. click on \"update\"",
+            "sure sir/mam. we have also provide the tv services in web and the mobile app.application.",
+            "yes sir/mam its amazing.",
+            "you can follow the below steps to download the app/application we have come up with new net tv web app and mobile app. as we are in the initial phase, channels are being  dded. though all the channels are not available, you can use the available ones for now through your isp credential.thank you so much for your patience. we will get back to you soon. from nettv official facebook page www.facebook.com/tvchannelprovider/ nettv official website www.nettv.com.np/ please go through this link to open nettv web app from webtv.nettv.com.np/login please go through this link to open nettv mobile app play.google.com/store/apps/details?id=np.com.nettv note this mobile app link is only for android user for now. we are working for ios user too. online services password is the password used to login to know your internet status, web login and mobile login. you can reset this password from the mobile app/application and the web app/application.  from the worldlink web application/app go to www.worldlink.com.np click on “online services” (eservice.worldlink.com.np/login/) click on “forgot password?” (eservice.worldlink.com.np/recover/forgot_password) enter your username and email address/mobile number registered to the username. from the worldlink mobile app/application open your mobile app/application tap in main router >> wan>> in the bottom tap in forgot password?reset request after taping the forgot password?reset request button you will receive the message with the code. the code is six digit."
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "offensive",
+         "patterns": 
+         [
+            "sala kutta kamina.",
+            "oi sale khate",
+            "oi mug",
+            "madargat",
+            "fuck you",
+            "hey bitch",
+            "hi mother fucker",
+            "tero tauko, your head",
+            "hello son of the bitch",
+            "hey bhaster",
+            "hey bhaster, kutta kamina, tero tauko, fuck, o fuck"
+         ],
+         "responses": 
+         [
+            "if you continue using such offensive and vulgar words to seek our assistance. we will be compelled to blacklist you from online support services. thank you!",
+            "if you continue using such offensive and vulgar words to seek our assistance. we will be compelled to blacklist you from online support services. thank you!",
+            "if you continue using such offensive and vulgar words to seek our assistance. we will be compelled to blacklist you from online support services. thank you!",
+            "if you continue using such offensive and vulgar words to seek our assistance. we will be compelled to blacklist you from online support services. thank you!",
+            "if you continue using such offensive and vulgar words to seek our assistance. we will be compelled to blacklist you from online support services. thank you!",
+            "if you continue using such offensive and vulgar words to seek our assistance. we will be compelled to blacklist you from online support services. thank you!",
+            "if you continue using such offensive and vulgar words to seek our assistance. we will be compelled to blacklist you from online support services. thank you!",
+            "we created page of worldlink communications ltd. to be an authentic and safe place for providing support and information for our valued customers. we apologize for the inconvenience that you had to face but we strongly disagree with the use of offensive and abusive words.",
+            "we created page of worldlink communications ltd. to be an authentic and safe place for providing support and information for our valued customers. we apologize for the inconvenience that you had to face but we strongly disagree with the use of offensive and abusive words.",
+            "we created page of worldlink communications ltd. to be an authentic and safe place for providing support and information for our valued customers. we apologize for the inconvenience that you had to face but we strongly disagree with the use of offensive and abusive words.if you continue using such offensive and vulgar words to seek our assistance. we will be compelled to blacklist you from online support services. thank you!"
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "nointernetconnection",
+         "patterns": 
+         [
+            "my internet is not working. could you please provie me the concern person number.?",
+            "i am facing the internet problem. i want your number.",
+            "i want your branch number.",
+            "please mention the number to contact your representative. i want to update my issue.?",
+            "could you please mention the opening hour of the branch.",
+            "i want your technician right now.",
+            "last night, one vehicle cut of my internet fiber cable. now my internet is not working.",
+            "its not my fault. that truck cut off my wire. why do i pay for that?",
+            "i will not pay send you technician.",
+            "my cable has got damaged. could you please send here technician for the replacement?",
+            "the fiber cable from the nearest pole to my house got damaged.",
+            "no i don't.",
+            "why do i pay for the wire. mouse eat it. mouse will pay🤣️🤣️🤣️",
+            "😒️😒️😒️",
+            "i think my onu device got damage. non of the light in glowing in router.",
+            "yes i have.",
+            "i have got the white nokia router.",
+            "let me check.",
+            "yaa there is off and on button.",
+            "status is off. can i turn it on.?",
+            "oh router has now power light glowing.",
+            "after i stepup the internet, if there is of the issue regrding the internet. whome do i contact?",
+            "okay if my internet got down in saturday. will you come and maintain it?",
+            "i may have got important work. i may need the support at the concern time.",
+            "could you mention the time?"
+         ],
+         "responses": 
+         [
+            "sorry sir, we do not have direct contact number for the respective branch office but you can contact our phone support team at 9801523051 from where your call will be transferred o your respective branch office.",
+            "sorry sir, we do not have direct contact number for the respective branch office but you can contact our phone support team at 9801523051 from where your call will be transferred to your respective branch office.",
+            "sorry sir, we do not have direct contact number for the respective branch office but you can contact our phone support team at 9801523051 from where your call will be transferred to your respective branch office.",
+            "sorry sir, we do not have direct contact number for the respective branch office but you can contact our phone support team at 9801523051 from where your call will be transferred to your respective branch office.",
+            "sure sir. working hours head office (jawlakhel) 7 am to 6pm (sunday to friday)11 am to 3 pm (saturday) branch offices 7 am to 6pm (sunday to friday)11 am to 3 pm (saturday)",
+            "please update your issue, we assure you your issue will be solve as soon as possible.",
+            "for drop wire damaged due to client rs.904 (rs.800+13%vat)  damaged due to govt/pole issues  rs.904 (rs.800+13%vat)",
+            "you have to pay for the wire sir/mam.",
+            "please visit the concern branch office sir/mam",
+            "which cable got damaged sir/mam?",
+            "okay sir/mam, do you know the term and condition for the replacement sir/mam?",
+            "for drop wire damaged due to client rs.904 (rs.800+13%vat)  damaged due to govt/pole issues rs.904 (rs.800+13%vat)",
+            "if you want to replace the wire you have to pay the amount sir/mam.",
+            "if you have any query you can contact our phone support department  9801523051.",
+            "have you connect the adaptor to the main electric circuit to the router?",
+            "which router do you have?",
+            "in the backside of the router you will see the on/off button. please check it out.",
+            "okay sir/mam",
+            "check wheather it is on or the off?",
+            "sure sir/mam please turn it on.",
+            "okay sir/mam  now it will work.",
+            "we have ticket service for 24x7 where you can assign from online service or mobile application so that our support representative will contact you for your query. we also have online chat portals through our official website(www.worldlink.com.np) and our official facebook page inbox  too. we will always be available from 6am to 10pm.besides phone calls, mobile app eservice, emails, facebook (web based chatsupport) is also a feature/platform available for our valued customers to report issues or reach us in most effective way. we apolozise that you might have been informed in an inappropriate way. however, we would be glad to assist you in every possible way and glad that you made it up to here, is your issues resolved? if not, we request you to inbox us with your username. we would be glad to assist you right away.",
+            "your issue will be solve as soon as possible sir/mam",
+            "you will get the support at that concern time but if there is any of the outages and technical issue in the connection it will take some time."
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "nettv",
+         "patterns": 
+         [
+            "i am your existing user. i have also subscribe to your nettv. i have heard that wordlink has provide web application and mobile application nettv sevices.",
+            "am i eligible for that services?",
+            "can you please explain me about the credential i need to login.?",
+            "okay i know about my username but online services password, what does it mean?",
+            "okay if you don't mind can you guide me to reset the online services password myself?",
+            "i heard that you also prove the tv channel services to the client. is that true?",
+            "i have query regaring the nettv.",
+            "i heard from my friend that we can pair the tv remote with the nettv remote. is that true?",
+            "can you guide me to pair the remote?",
+            "i am your old customer. i want to know about your nettv services."
+         ],
+         "responses": 
+         [
+            "yes sir/mam that true.  we have release our new web and mobile application services.",
+            "definately sir/mam. you are elegible for that services. you can follow the below steps to download the app/application  we have come up with new net tv web app and mobile app. as we are in the initial phase, channels are being added. though all the channels are not available, you can use the available ones for now through your isp credential.thank you so much for your patience. we will get back to you soon. nettv official facebook page www.facebook.com/tvchannelprovider/  from nettv official website www.nettv.com.np/ please go through this link to open nettv web app webtv.nettv.com.np/login please go through this link to open nettv mobile appn//play.google.com/store/apps/details?id=np.com.nettv this mobile app link is only for android user for now. we are working for ios user too.",
+            "sure sir/mam. there is teo credential to login.they are username and the online services password.",
+            "online services password is the password used to login to know your internet status, web login and mobile login. you can reset this password from the mobile app/application and the web app/application.",
+            "sure sir/mam from the worldlink web application/app go to www.worldlink.com.np click on “online services” (//eservice.worldlink.com.np/login/) click on “forgot password?” (eservice.worldlink.com.np/recover/forgot_password) enter your username and email address/mobile number registered to the username. from the worldlink mobile app/application open your mobile app/application tap in main router >> wan>> in the bottom tap in forgot password?reset request after taping the forgot password?reset request button you will receive the message with the code. the code is six digit.",
+            "yes sir we too provide the tv channel services to the clinet. not only channel but you will receive the nettv box with adds on facility.",
+            "please elborate your query sir.",
+            "yes sir it is.",
+            "pairing iptv and tv remote. 1. so, first of all you need to keep pressing set of iptv remote until the light stops blinking and light glows constantly. 2. and now keep both remote in such a way that both led is facing each other. 3. keep pressing av/tv button of iptv remote and same button of your tv remote until the light of iptv remote glows constantly 4. do the same process for all other buttons i.e volume down, volume up and power button. select the channel from menu key and there appears \"wait to load epg/dvr\" and when its loaded, you can select the channels"
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "goodmorning",
+         "patterns": 
+         [
+            "gud morning.",
+            "morning.",
+            "mrg"
+         ],
+         "responses": 
+         [
+            "morning sir/mam. how can we assis you?",
+            "good morning sir/mam. how can we assis you?"
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "hosting",
+         "patterns": 
+         [
+            "do you have the hosting services?",
+            "could you please mention the hosting department number?",
+            "could you please mention the  web hosting department number?"
+         ],
+         "responses": 
+         [
+            "sure sir, we do have the hosting services. please contact 9851044885 for the hosting.",
+            "sure sir. the web hosting number is 9851044885."
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "greeting",
+         "patterns": 
+         [
+            "hi",
+            "hello sir/mam.",
+            "hey brother.",
+            "hey",
+            "how are you?",
+            "is anyone there?",
+            "namastae sir/mam.",
+            "are you idiot?",
+            "hey, nigga.",
+            "catch you later",
+            "so kind of you.",
+            "hello gentalmen",
+            "hey buddy",
+            "hey stupsid dump",
+            "hey worldlink.",
+            "boro"
+         ],
+         "responses": 
+         [
+            "hello sir/mam.",
+            "hello there, how can i help you.",
+            "hello sir/mam. how can we assist you?",
+            "hi there",
+            "we are fine sir. how about you?",
+            "how can i assist you?",
+            "namastae sir/mam. how can we help you?",
+            "hello",
+            "how can i help you?",
+            "sure sir.",
+            "thank you sir/mam.",
+            "hello sir how can we assist you?",
+            "hello sir/mam. how can we assist you?",
+            "hello sir/mam.",
+            "hello sir/mam how can we assist you?"
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "gamingwinprice",
+         "patterns": 
+         [
+            "hello gentelman i have won the prediction game of your last post.",
+            "my username is subhoid. i have won the price of valentine context.",
+            "could you guide me to contact the person for the prizes.",
+            "could you mention the detail of the prizes that i have won in the context.",
+            "when you will be release the winner name of the last context?",
+            "could you mention the detail of the winner of that last post context."
+         ],
+         "responses": 
+         [
+            "please mention the post and the context date.",
+            "for prize details, please contact narendra maharjan at 9801229883 or email him at narendra.maharjan@worldlink.com.np",
+            "for prize details, please contact narendra maharjan at 9801229883 or email him at narendra.maharjan@worldlink.com.np",
+            "sure sir. for prize details, please contact narendra maharjan at 9801229883 or email him at narendra.maharjan@worldlink.com.np",
+            "it will be posted on our page as soon as possible after the winners are chosen through lucky draw. please stay connected with us."
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "onlinegaming",
+         "patterns": 
+         [
+            "i am facing issue in the gaming.",
+            "my usernme is rahul_idk. i am facing issue in online gaming.",
+            "i am facing the ping issue in the online gaming. i offen play pubg, csgo, fortnight, gta v.",
+            "we are having some issues in online gaming recently, especially in “pubg mobile”. our team are working on the issue. we apologize for the inconvenience you are facing due to this. we request you to type “what’s my ipv4” in google and share us the screenshot also send us the screenshot of the ping you are getting in-game. we will restart your current session and escalate your details to our concerned team, which will help diagnose the issue further. hope so it will solve as soon as possible.",
+            "i am facing issue in fortnight.",
+            "i am having problem in the internet. the am getting high ping and latency in the gaming."
+         ],
+         "responses": 
+         [
+            "which game are you playing sir/mam?",
+            "we are having some issues in online gaming recently, especially in “pubg mobile”. our team are working on the issue. we apologize for the inconvenience you are facing due to this. we request you to type “what’s my ipv4” in google and share us the screenshot also send us the screenshot of the ping you are getting in-game. we will restart your current session and escalate your details to our concerned team, which will help diagnose the issue further.",
+            "we are having some issues in online gaming recently, especially in “pubg mobile”. our team are working on the issue. we apologize for the inconvenience you are facing due to this. we request you to type “what’s my ipv4” in google and share us the screenshot also send us the screenshot of the ping you are getting in-game. we will restart your current session and escalate your details to our concerned team, which will help diagnose the issue further.",
+            "are you playing from the lan or the wifi?",
+            "we are having some issues in online gaming. our team are working on the issue. we apologize for the inconvenience you are facing due to this. we request you to type “what’s my ipv4” in google and share us the screenshot also send us the screenshot of the ping you are getting in-game. we will restart your current session and escalate your details to our concerned team, which will help diagnose the issue further."
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "fup",
+         "patterns": 
+         [
+            "i am not getting the speed i am paying amount to you.",
+            "i am using torrent and my internet is slow.",
+            "hey worldink. i want to know about your fup policy.",
+            "i feel slow internet connection at 8 to 11 at night.",
+            "yaa i do.",
+            "there is the black color with 100%. what does it mean?",
+            "what does it mean? i have heard this about the first time.",
+            "tell me about fup.",
+            "what do you think i will read all the above stuff?",
+            "how does a user fall under fup?",
+            "oh my god. how fup works in worldlink?",
+            "how to avoid fup?",
+            "we have paid the money for the internet but due to your fucking policy my internet is slow. it is a joke?",
+            "why do i mind my language? how can i remove the fup?",
+            "is there any alternative to remove the fup? give me your account number i can send you the amount."
+         ],
+         "responses": 
+         [
+            "5mbps = 5120kbps 5120kbps /8 = 640 kbps well, since you have subscribed to our bandwidth in bits per second. then your actual download/upload speed should be the division of your subscribed internet speed by 8 [since 1 byte = 8 bit ] to get your speed in bytes per second (kbps). for example, if you subscribe the internet of 5 mbps (megabit per second) which is [ 5*1024=5120 kbps (kilobits per second)] , then the download/upload speed should be around (5120/8) kbps i.e around 640 kbps (kilobytes per second).the download speed you are getting is in bytes and the internet speed you are subscribed in bits. it takes 8 bits of internet speed to download 1 byte of file size. but, while testing speed if you are not getting full bandwidth, there could have been some issues, we can look into it and fix it for you.sir, download speed matters by bits and bytes factors. it take 8bits of internet speed to download 1byte of data. if you take 5mbps plan your internet speed will be 512",
+            "internet is provided in bits where as your download speed is displayed in bytes. the average download speed of 5 mbps (megabits ) is 640 kbps ( kilobytes). but it also may vary according to seeds and peers as well as server you're downloading from. please inbox us your username. we will look into your issue.sir/mam, number of seeds and peers do affects the download reliability with respond to it's number. greater seed/peer, the download ratio increase as per it. perhaps, bandwidth that you have subscribed to is always that matters with the download speed. if the file you want to download have seeds and peers around 100 then according to your bandwidth subscribed your download should be around 640 kbps (which is equal to 5 mbps) . since there was just 50kbps download from your router, there must be an issue with it's throughput. sir/mam, no isp can guarantee the download speed you get in torrent. its illegal to begin with, in many countries.  there is no specific server to store a torrent file. bits and fragments of the file are scattered all over the world in the pc's of people who download those torrent files as seeders and leechers. people(leachers) download from you, when you are seeding a file. so the download speed from torrent very much depends on the number of seeders and leechers associated with the torrent file and the route to them.well, since most of the downloader (eg idm, torrent) shows the download speed in byte per second but you have subscribed to our bandwidth in bit per second. then your actual download speed should be the division of your subscribed internet speed by 8 [since 1 byte = 8 bit ]. for example, if you subscribe the internet of 25 mbps (megabit per second) , then the download speed should be around (25/8) kbps i.e around 3.25mbps (megabyte per second).",
+            "sir, fup is right that every isp reserve. we are sure sooner or later it is going to be implemented by any isps according to their needs and requirements. so on with the increasing number of clients in worldlink we intend to provide the best possible internet experience to all our customers. for this, we rely on customers being fair in the way they use the internet. this \"fair usage policy\" is here to give us an option that if usage of any unlimited customer is excessive over a period of time to the point, it impacts on other users experience then the bandwidth will be capped to fallback speed and is effective only during peak hours (8pm to 11pm) whereas the speed remain unchanged beside mentioned timing.all of our valued clients must be able to use equal service. here, fup is an option to provide such solutions. there are so many users found they have been misusing internet e.g taking a connection for home and have been using for hostels, hotels, restaurants, multiple sharing and for other business purposes. if you take a deep look into it a normal users never falls under fup but all those bandwidth abusers and massive users.let us take 5 mbps package, when the internet usage exceeds the daily fup limit of 10 gb then fup will be applied during the daily peak hours ( i.e. 8 pm to 11 pm ), then the respective user will be notified via sms and e-mail. this will be done 3x3 times for every 10gb bandwidth usage during the daily peak hours with sms & email alert. for the next 3 times of 10 gb bandwidth usage, the bandwidth will then be capped to fallback speed ( 1 mbps) but users can reset the speed back to normal through mobile app or visiting our website. if the user continues with excessive use then the bandwidth will be capped again permanently ( i.e for 3 hours).when the internet usage is seen excessive then the respective users will be notified via sms and e-mail for 3 times, users can reset the speed back to normal via bandwidth selector option available in online service or mobile app for next 3 times. fup will be abolished as user manage his/her daily usage, if continuous excess usage is seen then the bandwidth will be capped permanently( i.e 8pm-11pm hours only).dear sir, its warning message for all of our customers with excessive internet usage. fup have not been implemented. whereas fup policy is a worldwide policy and also mentioned in point no. 20 of terms and conditions.let us take 5mbps package, when the internet usage exceeds the daily fup limit of 28 gb within the daily peak hours (i.e. 8pm-11pm), then the respective user will be notified via sms and email. this will be done 3*3 times for every 28gb bandwidth usage during the daily peak hours with sms and email alert. for the next 3 times of 28gb bandwidth usage, the bandwidth will then capped to fallback speed (3mbps) but users can reset the speed back to normal through mobile app or visiting our website. if the user continues with excessive use then the bandwidth will be capped again permanently (i.e. for 3 hours)at peak times, a lot of customers use the shared network bandwidth at any one time.this means that service quality for all users is affected, making it slower for everyone to access the internet or send and receive emails, especially at peak times. peak times may fluctuate between 8 pm to 11 pm. 5mbps- 20gb in 24hours- 1mbps fallback 10mbps- 24gb in 24hours- 2mbps fallback 20mbps- 28gb in 24hours- 3mbps fallback 25mbps- 32gb in 24hours- 4mbps fallback 30mbps- 36gb in 24hours- 5mbps fallback 35mbps- 36gb in 24hours- 5mbps fallback 40mbps- 36gb in 24hours- 5mbps fallback 50mbps- 40gb in 24hours- 6mbps fallback 55mbps- 40gb in 24hours- 6mbps fallback 60mbps- 40gb in 24hours- 6mbps fallback fup is applied only  if an excessive amount of data has been used in an account. our fup is applicable only from 8pm to 11 pm.",
+            "do you use mobile application.",
+            "please open your mobile application and in the home is there any fup color. the color shown is red, black and yellow. there is also percentage along with the color.",
+            "it seems that your account is activate with the fup.",
+            "sir, fup is right that every isp reserve. we are sure sooner or later it is going to be implemented by any isps according to their needs and requirements. so on with the increasing number of clients in worldlink we intend to provide the best possible internet experience to all our customers. for this, we rely on customers being fair in the way they use the internet. this \"fair usage policy\" is here to give us an option that if usage of any unlimited customer is excessive over a period of time to the point, it impacts on other users experience then the bandwidth will be capped to fallback speed and is effective only during peak hours (8pm to 11pm) whereas the speed remain unchanged beside mentioned timing.all of our valued clients must be able to use equal service. here, fup is an option to provide such solutions. there are so many users found they have been misusing internet e.g taking a connection for home and have been using for hostels, hotels, restaurants, multiple sharing and for other business purposes. if you take a deep look into it a normal users never falls under fup but all those bandwidth abusers and massive users.let us take 5 mbps package, when the internet usage exceeds the daily fup limit of 10 gb then fup will be applied during the daily peak hours ( i.e. 8 pm to 11 pm ), then the respective user will be notified via sms and e-mail. this will be done 3x3 times for every 10gb bandwidth usage during the daily peak hours with sms & email alert. for the next 3 times of 10 gb bandwidth usage, the bandwidth will then be capped to fallback speed ( 1 mbps) but users can reset the speed back to normal through mobile app or visiting our website. if the user continues with excessive use then the bandwidth will be capped again permanently ( i.e for 3 hours).when the internet usage is seen excessive then the respective users will be notified via sms and e-mail for 3 times, users can reset the speed back to normal via bandwidth selector option available in online service or mobile app for next 3 times. fup will be abolished as user manage his/her daily usage, if continuous excess usage is seen then the bandwidth will be capped permanently( i.e 8pm-11pm hours only).dear sir, its warning message for all of our customers with excessive internet usage. fup have not been implemented. whereas fup policy is a worldwide policy and also mentioned in point no. 20 of terms and conditions.let us take 5mbps package, when the internet usage exceeds the daily fup limit of 28 gb within the daily peak hours (i.e. 8pm-11pm), then the respective user will be notified via sms and email. this will be done 3*3 times for every 28gb bandwidth usage during the daily peak hours with sms and email alert. for the next 3 times of 28gb bandwidth usage, the bandwidth will then capped to fallback speed (3mbps) but users can reset the speed back to normal through mobile app or visiting our website. if the user continues with excessive use then the bandwidth will be capped again permanently (i.e. for 3 hours)at peak times, a lot of customers use the shared network bandwidth at any one time.this means that service quality for all users is affected, making it slower for everyone to access the internet or send and receive emails, especially at peak times. peak times may fluctuate between 8 pm to 11 pm.  5mbps- 20gb in 24hours- 1mbps fallback 10mbps- 24gb in 24hours- 2mbps fallback 20mbps- 28gb in 24hours- 3mbps fallback 25mbps- 32gb in 24hours- 4mbps fallback 30mbps- 36gb in 24hours- 5mbps fallback 35mbps- 36gb in 24hours- 5mbps fallback 40mbps- 36gb in 24hours- 5mbps fallback 50mbps- 40gb in 24hours- 6mbps fallback 55mbps- 40gb in 24hours- 6mbps fallback 60mbps- 40gb in 24hours- 6mbps fallback fup is applied only  if an excessive amount of data has been used in an account. our fup is applicable only from 8pm to 11 pm.",
+            "sir, fup is right that every isp reserve. we are sure sooner or later it is going to be implemented by any isps according to their needs and requirements. so on with the increasing number of clients in worldlink we intend to provide the best possible internet experience to all our customers. for this, we rely on customers being fair in the way they use the internet. this \"fair usage policy\" is here to give us an option that if usage of any unlimited customer is excessive over a period of time to the point, it impacts on other users experience then the bandwidth will be capped to fallback speed and is effective only during peak hours (8pm to 11pm) whereas the speed remain unchanged beside mentioned timing.all of our valued clients must be able to use equal service. here, fup is an option to provide such solutions. there are so many users found they have been misusing internet e.g taking a connection for home and have been using for hostels, hotels, restaurants, multiple sharing and for other business purposes. if you take a deep look into it a normal users never falls under fup but all those bandwidth abusers and massive users.let us take 5 mbps package, when the internet usage exceeds the daily fup limit of 10 gb then fup will be applied during the daily peak hours ( i.e. 8 pm to 11 pm ), then the respective user will be notified via sms and e-mail. this will be done 3x3 times for every 10gb bandwidth usage during the daily peak hours with sms & email alert. for the next 3 times of 10 gb bandwidth usage, the bandwidth will then be capped to fallback speed ( 1 mbps) but users can reset the speed back to normal through mobile app or visiting our website. if the user continues with excessive use then the bandwidth will be capped again permanently ( i.e for 3 hours).when the internet usage is seen excessive then the respective users will be notified via sms and e-mail for 3 times, users can reset the speed back to normal via bandwidth selector option available in online service or mobile app for next 3 times. fup will be abolished as user manage his/her daily usage, if continuous excess usage is seen then the bandwidth will be capped permanently( i.e 8pm-11pm hours only).dear sir, its warning message for all of our customers with excessive internet usage. fup have not been implemented. whereas fup policy is a worldwide policy and also mentioned in point no. 20 of terms and conditions.let us take 5mbps package, when the internet usage exceeds the daily fup limit of 28 gb within the daily peak hours (i.e. 8pm-11pm), then the respective user will be notified via sms and email. this will be done 3*3 times for every 28gb bandwidth usage during the daily peak hours with sms and email alert. for the next 3 times of 28gb bandwidth usage, the bandwidth will then capped to fallback speed (3mbps) but users can reset the speed back to normal through mobile app or visiting our website. if the user continues with excessive use then the bandwidth will be capped again permanently (i.e. for 3 hours)at peak times, a lot of customers use the shared network bandwidth at any one time.this means that service quality for all users is affected, making it slower for everyone to access the internet or send and receive emails, especially at peak times. peak times may fluctuate between 8 pm to 11 pm. 5mbps- 20gb in 24hours- 1mbps fallback 10mbps- 24gb in 24hours- 2mbps fallback 20mbps- 28gb in 24hours- 3mbps fallback 25mbps- 32gb in 24hours- 4mbps fallback 30mbps- 36gb in 24hours- 5mbps fallback 35mbps- 36gb in 24hours- 5mbps fallback 40mbps- 36gb in 24hours- 5mbps fallback 50mbps- 40gb in 24hours- 6mbps fallback 55mbps- 40gb in 24hours- 6mbps fallback 60mbps- 40gb in 24hours- 6mbps fallback fup is applied only  if an excessive amount of data has been used in an account. our fup is applicable only from 8pm to 11 pm.",
+            "if you want to understand about the fup you have to read all the above information about the fup.",
+            "users who abuse the internet for immense download/upload uncontrollably, massive sharing & inappropriate package subscription.",
+            "in worldlink we have “smart fup” system which monitors our user’s behaviour, when a user exceeds daily data threshold, flags will be tagged automatically and on the basis of flags tagged our system automatically restricts those abusers and keeps overall experience balanced for other normal users.",
+            "subscribing to an appropriate internet plan is the best way to avoid fup restrictions. a user can avoid fup by keeping the track of d/u speed regularly. also taking control over massive download and sharing.",
+            "please elaborte your query also mind your language.",
+            "you have to control your bandwidth as well as control your download to remove the fup?"
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "farfromrouter",
+         "patterns": 
+         [
+            "i have been calling your phone support for an hour but i am not able to talk to your representative.",
+            "my internet is not working.",
+            "now i am not near to the router.",
+            "i am out of home now.",
+            "i am in my shop but i face internet issue in home.",
+            "i face internet issue when i am near to the router."
+         ],
+         "responses": 
+         [
+            "due to high number of calls on phone support, your call might be on queue.",
+            "how far are you from the router?",
+            "please go near to the router and update us your issue.",
+            "please update us your issue when you are near to the router.",
+            "you are not near to your router, how did you know you are facing slow internet connection?",
+            "please update your issue when you are near to the router."
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "goodevening",
+         "patterns": 
+         [
+            "gud evening.",
+            "happy evening.",
+            "good evening."
+         ],
+         "responses": 
+         [
+            "warm evening sir/mam. how can we assis you?",
+            "good evening sir/mam. how can we assis you?"
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "compensation",
+         "patterns": 
+         [
+            "i want to know about the time back system of the worldink. i have read you post but i didn't understand what exatly you are trying to say?",
+            "okay i don't use the internet for five/5 days can i claim this?",
+            "i want to compensate days that i am not able to use the internet?",
+            "i guess for the four/4 days.",
+            "no i haven't.",
+            "well, i was out of town. i just came back. i haven't use the internet for the past 5 days. now i want the compensation.",
+            "so what?",
+            "if you cant't compensate me why did you give ads on the internet and the pages for the time back feature. useless fellow.",
+            "my internet was down for the past one week due to the road explainsion near maitidevi. can i get the compensation for the past 7 days."
+         ],
+         "responses": 
+         [
+            "we, at worldlink, always strive to provide uninterrupted internet service and value your investment. however, incase of unavoidable circumstances, we bring you the service to makeup for loss caused by internet outages or regular maintenance. we will compensate if your issues are not responded within 24 hours.",
+            "no sir/mam. you can only claim when you internet is down or we may failed to provide services to you due to area issue or the outage. if you try to claim this without outages. you will be disapointed.",
+            "for how long days you are not able to use the internet?",
+            "have you update before for the compensation?",
+            "haven't you receive any notice about the compensation?",
+            "we, at worldlink, always strive to provide uninterrupted internet service and value your investment. however, incase of unavoidable circumstances, we bring you the service to makeup for loss caused by internet outages or regular maintenance. we will compensate if your issues are not responded within 24 hours.",
+            "you can only claim when you internet is down or we may failed to provide services to you due to area issue or the outage. if you try to claim this without outages. you will be dispointed.",
+            "i repeat,you can only claim when you internet is down or we may failed to provide services to you due to area issue or the outage. if you try to claim this without outages. beside this you will not be compensate."
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "afternoon",
+         "patterns": 
+         [
+            "gud afternoon.",
+            "afternoon.",
+            "noon"
+         ],
+         "responses": 
+         [
+            "afternoon sir/mam. how can we assis you?",
+            "good afternoon sir/mam. how can we assis you?"
+         ],
+         "context_set": ""
+      },
+{
+         "tag": "account",
+         "patterns": 
+         [
+            "could you please mention the customer accounts number?",
+            "please mention the accounts number?",
+            "provide me the account number.",
+            "my internet is going to be expire. can i extend my connection for the few days?"
+         ],
+         "responses": 
+         [
+            "sure sir/mam. the account number is 9801523053.",
+            "sure sir/mam. the account number is 9801523053.",
+            "the account number is 9801523053."
+         ],
+         "context_set": ""
+      }	
+   ]
+}
