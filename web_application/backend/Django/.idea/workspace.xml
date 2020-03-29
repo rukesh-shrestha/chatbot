@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30189377-a14c-4ae9-8721-af86bf881676" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VmrYOLnHvrORP8W9oAMgIooRs6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/templates/registration" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/static/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="qrcode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qrcode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.qrcode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30189377-a14c-4ae9-8721-af86bf881676" name="Default Changelist" comment="" />
+      <created>1577869158293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577869158293</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="357" width="572" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584280356318">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="669" y="357" width="572" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1584280356318" />
+    <state x="693" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580607968636">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="693" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1580607968636" />
+    <state x="733" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584807648615">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="733" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1584807648615" />
+    <state width="948" height="344" key="GridCell.Tab.0.bottom" timestamp="1584808559099">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="948" height="344" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1584808559099" />
+    <state width="948" height="344" key="GridCell.Tab.0.center" timestamp="1584808559099">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="948" height="344" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1584808559099" />
+    <state width="948" height="344" key="GridCell.Tab.0.left" timestamp="1584808559098">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="948" height="344" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1584808559098" />
+    <state width="948" height="344" key="GridCell.Tab.0.right" timestamp="1584808559099">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="948" height="344" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584808559099" />
+    <state width="948" height="344" key="GridCell.Tab.1.bottom" timestamp="1584808559100">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="948" height="344" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1584808559100" />
+    <state width="948" height="344" key="GridCell.Tab.1.center" timestamp="1584808559100">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="948" height="344" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1584808559100" />
+    <state width="948" height="344" key="GridCell.Tab.1.left" timestamp="1584808559100">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="948" height="344" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1584808559100" />
+    <state width="948" height="344" key="GridCell.Tab.1.right" timestamp="1584808559100">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="948" height="344" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584808559100" />
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1584936843390">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1584936843390" />
+    <state x="655" y="231" width="600" height="643" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584281179643">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="655" y="231" width="600" height="643" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1584281179643" />
+    <state x="1033" y="27" width="544" height="639" key="dock-window-1" timestamp="1584804714271">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1033" y="27" width="544" height="639" key="dock-window-1/0.27.1920.1053@0.27.1920.1053" timestamp="1584804714271" />
+    <state x="623" y="257" key="search.everywhere.popup" timestamp="1584375575081">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="257" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1584375575081" />
+    <state x="685" y="444" width="540" height="216" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584509932389">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="685" y="444" width="540" height="216" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1584509932389" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/demo/urls.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
