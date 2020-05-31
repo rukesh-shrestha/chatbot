@@ -191,3 +191,5 @@ print(json.dumps(data, indent=4))
 
 with open('merged_json.json', "w") as f:
     f.write(json.dumps(data, indent=4))
+    
+    
