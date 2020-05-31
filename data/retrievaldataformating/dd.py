@@ -5,4 +5,4 @@ with open ("a.txt",'r') as file:
 	single_lines = '\t'.join([line.strip() for line in lines])
 
 with open("aa.txt",'w') as ff:
-	ff.write(single_lines)
+	ff.write(single_lines) 
