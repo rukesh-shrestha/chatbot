@@ -1,0 +1,17 @@
+{
+    "intents": [
+        {
+            "tag": "gaming",
+            "patterns": [
+                "i am facing issue in the gaming.",
+                "i am laging in online gaming.",
+                "i am facing the ping issue in the online gaming. i offen play pubg, csgo, fortnight, gta v."
+            ],
+            "responses": [
+                "which game are you playing sir/mam?",
+                "we are having some issues in online gaming recently, especially in \u201cpubg mobile\u201d. our team are working on the issue. we apologize for the inconvenience you are facing due to this. we request you to type \u201cwhat\u2019s my ipv4\u201d in google and share us the screenshot also send us the screenshot of the ping you are getting in-game. we will restart your current session and escalate your details to our concerned team, which will help diagnose the issue further."
+            ],
+            "context_set": ""
+        }
+    ]
+}

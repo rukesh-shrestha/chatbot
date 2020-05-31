@@ -1,0 +1,14 @@
+{
+    "intents": [
+        {
+            "tag": "hello",
+            "patterns": [
+                "hello"
+            ],
+            "responses": [
+                "hello sir/mam. how can we assist you?"
+            ],
+            "context_set": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "intents": [
+        {
+            "tag": "services",
+            "patterns": [
+                "can you tell me about the services worldink provide to the users?",
+                "could you tell me services of wordlink?"
+            ],
+            "responses": [
+                "sure sir/mam. the services are internet services, nettv services, hosting services, free wifi hotspot."
+            ],
+            "context_set": ""
+        }
+    ]
+}

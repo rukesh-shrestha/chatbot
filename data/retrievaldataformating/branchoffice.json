@@ -1,0 +1,15 @@
+{
+    "intents": [
+        {
+            "tag": "branchoffice",
+            "patterns": [
+                "could you please mention the opening hour of the branch.",
+                "is your any of the branch open today."
+            ],
+            "responses": [
+                "sure sir. working hours head office (jawlakhel) 7 am to 6pm (sunday to friday)11 am to 3 pm (saturday) branch offices 7 am to 6pm (sunday to friday)11 am to 3 pm (saturday)."
+            ],
+            "context_set": ""
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "intents": [
+        {
+            "tag": "offensive",
+            "patterns": [
+                "sala kutta kamina.",
+                "oi sale khate",
+                "oi mug",
+                "madargat",
+                "fuck you",
+                "hey bitch",
+                "hi mother fucker",
+                "tero tauko, your head",
+                "hello son of the bitch",
+                "hey bhaster",
+                "hey bhaster, kutta kamina, tero tauko, fuck, o fuck"
+            ],
+            "responses": [
+                "if you continue using such offensive and vulgar words to seek our assistance. we will be compelled to blacklist you from online support services. thank you!",
+                "if you continue using such offensive and vulgar words to seek our assistance. we will be compelled to blacklist you from online support services. thank you!",
+                "if you continue using such offensive and vulgar words to seek our assistance. we will be compelled to blacklist you from online support services. thank you!",
+                "if you continue using such offensive and vulgar words to seek our assistance. we will be compelled to blacklist you from online support services. thank you!",
+                "if you continue using such offensive and vulgar words to seek our assistance. we will be compelled to blacklist you from online support services. thank you!",
+                "if you continue using such offensive and vulgar words to seek our assistance. we will be compelled to blacklist you from online support services. thank you!",
+                "if you continue using such offensive and vulgar words to seek our assistance. we will be compelled to blacklist you from online support services. thank you!",
+                "we created page of worldlink communications ltd. to be an authentic and safe place for providing support and information for our valued customers. we apologize for the inconvenience that you had to face but we strongly disagree with the use of offensive and abusive words.",
+                "we created page of worldlink communications ltd. to be an authentic and safe place for providing support and information for our valued customers. we apologize for the inconvenience that you had to face but we strongly disagree with the use of offensive and abusive words.",
+                "we created page of worldlink communications ltd. to be an authentic and safe place for providing support and information for our valued customers. we apologize for the inconvenience that you had to face but we strongly disagree with the use of offensive and abusive words.if you continue using such offensive and vulgar words to seek our assistance. we will be compelled to blacklist you from online support services. thank you!"
+            ],
+            "context_set": ""
+        }
+    ]
+}

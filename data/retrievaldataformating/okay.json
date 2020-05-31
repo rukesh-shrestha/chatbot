@@ -1,0 +1,16 @@
+{
+    "intents": [
+        {
+            "tag": "okay",
+            "patterns": [
+                "okay",
+                "you really suprise me."
+            ],
+            "responses": [
+                "okay sir/mam",
+                "okay"
+            ],
+            "context_set": ""
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "intents": [
+        {
+            "tag": "slowconnection",
+            "patterns": [
+                "my internet is not working well for a past few days.",
+                "i am facing the internet problem from past one month.",
+                "my internet is not working for the an hour. my browsing is completely slow.",
+                "you internet is wrost. i am facing completely slow browing in the connection.",
+                "i am facing issue in browsing.",
+                "i have been suffering from the serious internet issue."
+            ],
+            "responses": [
+                "please mention your username and the number sir/mam.",
+                "please elaborate your issue sir.",
+                "please reboot the router once in a while. if that does not resolve the issue, speedtest using lan cable and share us the result.to further troubleshoot the issue.",
+                "how offen do you reboot your router sir/mam?",
+                "please elaborate your query sir/mam."
+            ],
+            "context_set": ""
+        }
+    ]
+}

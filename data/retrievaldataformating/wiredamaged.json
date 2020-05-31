@@ -1,0 +1,16 @@
+{
+    "intents": [
+        {
+            "tag": "cutcable",
+            "patterns": [
+                "last night, one vehicle cut of my internet fiber cable. now my internet is not working.",
+                "its not my fault. that truck cut off my wire. why do i pay for that?"
+            ],
+            "responses": [
+                "for drop wire damaged due to client rs.904 (rs.800+13%vat)  damaged due to govt/pole issues  rs.904 (rs.800+13%vat)",
+                "please visit the concern branch office sir/mam"
+            ],
+            "context_set": ""
+        }
+    ]
+}

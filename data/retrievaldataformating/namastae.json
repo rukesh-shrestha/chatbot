@@ -1,0 +1,17 @@
+{
+    "intents": [
+        {
+            "tag": "namastae",
+            "patterns": [
+                "namastae sir/mam.",
+                "namaste.",
+                "namaskar sir/mam"
+            ],
+            "responses": [
+                "namastae sir/mam. how can we help you?",
+                "namastae sir/mam. how can we help you?"
+            ],
+            "context_set": ""
+        }
+    ]
+}

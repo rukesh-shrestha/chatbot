@@ -1,0 +1,14 @@
+{
+    "intents": [
+        {
+            "tag": "meaningofonline",
+            "patterns": [
+                "what is mean by online services password.?",
+                "what is online services password.?",
+                "why we need online services password.?"
+            ],
+            "responses": [],
+            "context_set": ""
+        }
+    ]
+}

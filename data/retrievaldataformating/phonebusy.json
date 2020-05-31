@@ -1,0 +1,14 @@
+{
+    "intents": [
+        {
+            "tag": "phonebusy",
+            "patterns": [
+                "i have been calling your phone support for an hour but i am not able to talk to your representative."
+            ],
+            "responses": [
+                "due to high number of calls on phone support, your call might be on queue."
+            ],
+            "context_set": ""
+        }
+    ]
+}

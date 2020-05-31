@@ -1,0 +1,16 @@
+{
+    "intents": [
+        {
+            "tag": "evening",
+            "patterns": [
+                "gud evening.",
+                "happy evening."
+            ],
+            "responses": [
+                "warm evening sir/mam. how can we assis you?",
+                "good evening sir/mam. how can we assis you?"
+            ],
+            "context_set": ""
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "intents": [
+        {
+            "tag": "renewconnection",
+            "patterns": [
+                "i want to renew my connection.",
+                "i am your old customer, now i want to renew in new prices. can you shows me price list."
+            ],
+            "responses": [],
+            "context_set": ""
+        }
+    ]
+}

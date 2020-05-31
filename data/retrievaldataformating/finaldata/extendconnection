@@ -1,0 +1,9 @@
+Human: I want to extend my connection. 
+Reply: Okay sir/mam, Please elaborate your issue.
+Human: I want to add the secondary router sir.
+Reply: Do you have the secondary router?
+Human: Yes sir i do.
+Reply: 1. Connect your secondary router to your PC with the help of LAN cable. 2. Access your secondary router with the default gateway IP address of your router.	3. Login with the default username and password for the router.	4. Go to Wireless settings to set up your WiFi SSID and password.	5. Go to Network settings and make the DHCP disable.	6.  Reboot  your  router  to  save  the  changes.	7. Connect your secondary router's LAN port to the LAN port 1 of the primary router(i.e, ONU device) with the help of LAN cable. If you are still not able to configure your router, please visit our nearest branch office along with your secondary router and its power adapter. 
+Human: Hey I want to extend my connection so that it can also be work in the fifth floor.I do have the secondary router of the TPLINK.
+Human: I want to use the internet in another floor how can i do that?
+

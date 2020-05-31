@@ -1,0 +1,19 @@
+{
+    "intents": [
+        {
+            "tag": "timeback",
+            "patterns": [
+                "i want to know about the time back system of the worldink. i have read you post but i didn't understand what exatly you are trying to say?",
+                "okay i don't use the internet for five/5 days can i claim this?",
+                "i want to compensate days that i am not able to use the internet?",
+                "can you tell me about the time back feature of worldlink?"
+            ],
+            "responses": [
+                "we, at worldlink, always strive to provide uninterrupted internet service and value your investment. however, incase of unavoidable circumstances, we bring you the service to makeup for loss caused by internet outages or regular maintenance. we will compensate if your issues are not responded within 24 hours.",
+                "no sir/mam. you can only claim when you internet is down or we may failed to provide services to you due to area issue or the outage. if you try to claim this without outages. you will be disapointed.",
+                "please contant our account department sir/mam."
+            ],
+            "context_set": ""
+        }
+    ]
+}

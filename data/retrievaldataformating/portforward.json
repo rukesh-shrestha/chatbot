@@ -1,0 +1,21 @@
+{
+    "intents": [
+        {
+            "tag": "portforward",
+            "patterns": [
+                "i am developer and i want to forward my port for the educational purpose. can you give me the access to it?",
+                "that not fair. we have pay the amount you have declare.",
+                "is there any way to access the router?",
+                "i want to access my router.",
+                "i want to access my router to change the wifi password."
+            ],
+            "responses": [
+                "we regret to inform you that our ftth customers won\u2019t be able to access the ftth router because of the rental/security policy of worldlink.",
+                "we have provided the router in rental. due to security purpose, you are not able to access the router page.",
+                "no sir/mam there is none of the way.",
+                "we appreciate your query and glad that you brought it forward. the access to ont devices from client's end was restricted due to security issues and rental policy of the company. there were multiple cases where unknown people created multiple ssid and misused volume and bandwidth at client's end resulting slow and intermittent connection. however, the sweet part is that you can use our mobile app \"myworldlink\" to change your wi-fi password, keep an eye on your dhcp list, account history, eservice and all. we also would like to inform you that there are features like mac filtering and reboot options available in mob app itself."
+            ],
+            "context_set": ""
+        }
+    ]
+}

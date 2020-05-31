@@ -1,0 +1,15 @@
+{
+    "intents": [
+        {
+            "tag": "photoupload",
+            "patterns": [
+                "i am facing issue of photo upload from the mobile application.",
+                "today i notice that my document is not upload in the server. how can i upload it?"
+            ],
+            "responses": [
+                "steps for uploading document 1. click on online service. 2. enter your username and password. 3. click on \"update contact details\". 4. click on \"browse\" to upload document (max size is 512kb). 5. click on \"update\""
+            ],
+            "context_set": ""
+        }
+    ]
+}

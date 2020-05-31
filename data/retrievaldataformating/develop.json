@@ -1,0 +1,14 @@
+{
+    "intents": [
+        {
+            "tag": "develop",
+            "patterns": [
+                "can you tell me who develop you?"
+            ],
+            "responses": [
+                "mr. rukesh shrestha develop me."
+            ],
+            "context_set": ""
+        }
+    ]
+}

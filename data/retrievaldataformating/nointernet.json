@@ -1,0 +1,18 @@
+{
+    "intents": [
+        {
+            "tag": "nointernet",
+            "patterns": [
+                "my internet is not working. could you please provie me the concern person number.?",
+                "i am facing the internet problem. i want your number.",
+                "i want your branch number."
+            ],
+            "responses": [
+                "sorry sir, we do not have direct contact number for the respective branch office but you can contact our phone support team at 9801523051 from where your call will be transferred o your respective branch office.",
+                "sorry sir, we do not have direct contact number for the respective branch office but you can contact our phone support team at 9801523051 from where your call will be transferred to your respective branch office.",
+                "sorry sir, we do not have direct contact number for the respective branch office but you can contact our phone support team at 9801523051 from where your call will be transferred to your respective branch office."
+            ],
+            "context_set": ""
+        }
+    ]
+}

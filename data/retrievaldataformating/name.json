@@ -1,0 +1,15 @@
+{
+    "intents": [
+        {
+            "tag": "name",
+            "patterns": [
+                "can you tell me your name?",
+                "what is your name?"
+            ],
+            "responses": [
+                "hello, i am artificial intelligence."
+            ],
+            "context_set": ""
+        }
+    ]
+}

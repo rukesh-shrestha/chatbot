@@ -1,0 +1,17 @@
+{
+    "intents": [
+        {
+            "tag": "gameprice",
+            "patterns": [
+                "hello gentelman i have won the prediction game of your last post.",
+                "could you guide me to contact the person for the prizes.",
+                "could you mention the detail of the prizes that i have won in the context."
+            ],
+            "responses": [
+                "please mention the post and the context date.",
+                "for prize details, please contact narendra maharjan at 9801229883 or email him at narendra.maharjan@worldlink.com.np"
+            ],
+            "context_set": ""
+        }
+    ]
+}

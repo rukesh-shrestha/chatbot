@@ -1,0 +1,17 @@
+{
+    "intents": [
+        {
+            "tag": "hosting",
+            "patterns": [
+                "do you have the hosting services?",
+                "could you please mention the hosting department number?",
+                "could you please mention the  web hosting department number?"
+            ],
+            "responses": [
+                "sure sir, we do have the hosting services. please contact 9851044885 for the hosting.",
+                "sure sir. the web hosting number is 9851044885."
+            ],
+            "context_set": ""
+        }
+    ]
+}

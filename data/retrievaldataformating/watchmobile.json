@@ -1,0 +1,15 @@
+{
+    "intents": [
+        {
+            "tag": "watchnettv",
+            "patterns": [
+                "i am your customer and i want to watch the tv channel in the mobile app/application.",
+                "if you don't mind can you teach me to watch the nettv from the web."
+            ],
+            "responses": [
+                "you can follow the below steps to download the app/application we have come up with new net tv web app and mobile app. as we are in the initial phase, channels are being  dded. though all the channels are not available, you can use the available ones for now through your isp credential.thank you so much for your patience. we will get back to you soon. from nettv official facebook page www.facebook.com/tvchannelprovider/ nettv official website www.nettv.com.np/ please go through this link to open nettv web app from webtv.nettv.com.np/login please go through this link to open nettv mobile app play.google.com/store/apps/details?id=np.com.nettv note this mobile app link is only for android user for now. we are working for ios user too. online services password is the password used to login to know your internet status, web login and mobile login. you can reset this password from the mobile app/application and the web app/application.  from the worldlink web application/app go to www.worldlink.com.np click on \u201conline services\u201d (eservice.worldlink.com.np/login/) click on \u201cforgot password?\u201d (eservice.worldlink.com.np/recover/forgot_password) enter your username and email address/mobile number registered to the username. from the worldlink mobile app/application open your mobile app/application tap in main router >> wan>> in the bottom tap in forgot password?reset request after taping the forgot password?reset request button you will receive the message with the code. the code is six digit."
+            ],
+            "context_set": ""
+        }
+    ]
+}

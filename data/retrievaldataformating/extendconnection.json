@@ -1,0 +1,19 @@
+{
+    "intents": [
+        {
+            "tag": "secondaryrouter",
+            "patterns": [
+                "i want to extend my connection.",
+                "i want to add the secondary router sir.",
+                "yes sir i do.",
+                "hey i want to extend my connection so that it can also be work in the fifth floor.i do have the secondary router of the tplink."
+            ],
+            "responses": [
+                "okay sir/mam, please elaborate your issue.",
+                "do you have the secondary router?",
+                "1. connect your secondary router to your pc with the help of lan cable. 2. access your secondary router with the default gateway ip address of your router.\t3. login with the default username and password for the router.\t4. go to wireless settings to set up your wifi ssid and password.\t5. go to network settings and make the dhcp disable.\t6.  reboot  your  router  to  save  the  changes.\t7. connect your secondary router's lan port to the lan port 1 of the primary router(i.e, onu device) with the help of lan cable. if you are still not able to configure your router, please visit our nearest branch office along with your secondary router and its power adapter."
+            ],
+            "context_set": ""
+        }
+    ]
+}

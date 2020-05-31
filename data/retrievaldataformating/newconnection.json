@@ -1,0 +1,14 @@
+{
+    "intents": [
+        {
+            "tag": "newconnection",
+            "patterns": [
+                "i want new connection.",
+                "i want to know the price for joining new connection.",
+                "can you send me the detail me new connection."
+            ],
+            "responses": [],
+            "context_set": ""
+        }
+    ]
+}

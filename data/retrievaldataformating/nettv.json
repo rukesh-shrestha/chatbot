@@ -1,0 +1,14 @@
+{
+    "intents": [
+        {
+            "tag": "nettv",
+            "patterns": [
+                "i am your existing user. i have also subscribe to your nettv. i have heard that wordlink has provide web application and mobile application nettv sevices."
+            ],
+            "responses": [
+                "yes sir/mam that true.  we have release our new web and mobile application services."
+            ],
+            "context_set": ""
+        }
+    ]
+}

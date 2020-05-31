@@ -1,0 +1,16 @@
+{
+    "intents": [
+        {
+            "tag": "thankyou",
+            "patterns": [
+                "thank you for the coorporation.",
+                "thank you"
+            ],
+            "responses": [
+                "welcome sir.",
+                "welcome sir/mam"
+            ],
+            "context_set": ""
+        }
+    ]
+}

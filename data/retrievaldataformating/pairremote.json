@@ -1,0 +1,17 @@
+{
+    "intents": [
+        {
+            "tag": "pairremote",
+            "patterns": [
+                "i heard from my friend that we can pair the tv remote with the nettv remote. is that true?",
+                "i am your old customer. i want to know about your nettv services.",
+                "how can we pair the nettv remote to tv remote?"
+            ],
+            "responses": [
+                "pairing iptv and tv remote. 1. so, first of all you need to keep pressing set of iptv remote until the light stops blinking and light glows constantly. 2. and now keep both remote in such a way that both led is facing each other. 3. keep pressing av/tv button of iptv remote and same button of your tv remote until the light of iptv remote glows constantly 4. do the same process for all other buttons i.e volume down, volume up and power button. select the channel from menu key and there appears \"wait to load epg/dvr\" and when its loaded, you can select the channels.",
+                "youtube services in nettv is available now. the old nettv set top box is not compatible for the youtube and future updates. so, we introduced new updated premium nettv set top box. which is compatible for youtube feature and future updates. you are requested to exchange the stb which costs nrs.500 + 13% vat for stb replacement and have to update the current internet package to new package. please visit to your concerned branch office to get the new updated nettv setup box. ll setup including remote, adapter should be brought and packages must be updated accordingly at the time of renewal.kindly inbox us to know more about the replacement of the nettv stb."
+            ],
+            "context_set": ""
+        }
+    ]
+}

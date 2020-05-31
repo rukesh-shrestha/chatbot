@@ -1,0 +1,15 @@
+{
+    "intents": [
+        {
+            "tag": "torrent",
+            "patterns": [
+                "i am using torrent and my internet is slow.",
+                "hey i feel slow connection while using torrent."
+            ],
+            "responses": [
+                "internet is provided in bits where as your download speed is displayed in bytes. the average download speed of 5 mbps (megabits ) is 640 kbps ( kilobytes). but it also may vary according to seeds and peers as well as server you're downloading from. please inbox us your username. we will look into your issue.sir/mam, number of seeds and peers do affects the download reliability with respond to it's number. greater seed/peer, the download ratio increase as per it. perhaps, bandwidth that you have subscribed to is always that matters with the download speed. if the file you want to download have seeds and peers around 100 then according to your bandwidth subscribed your download should be around 640 kbps (which is equal to 5 mbps) . since there was just 50kbps download from your router, there must be an issue with it's throughput. sir/mam, no isp can guarantee the download speed you get in torrent. its illegal to begin with, in many countries.  there is no specific server to store a torrent file. bits and fragments of the file are scattered all over the world in the pc's of people who download those torrent files as seeders and leechers. people(leachers) download from you, when you are seeding a file. so the download speed from torrent very much depends on the number of seeders and leechers associated with the torrent file and the route to them.well, since most of the downloader (eg idm, torrent) shows the download speed in byte per second but you have subscribed to our bandwidth in bit per second. then your actual download speed should be the division of your subscribed internet speed by 8 [since 1 byte = 8 bit ]. for example, if you subscribe the internet of 25 mbps (megabit per second) , then the download speed should be around (25/8) kbps i.e around 3.25mbps (megabyte per second)."
+            ],
+            "context_set": ""
+        }
+    ]
+}
